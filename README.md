@@ -8,7 +8,6 @@ This version includes everything:
 - Folder structure
 - Screenshots placeholder
 - License  
-> ✅ *No author section, as requested.*
 
 ---
 

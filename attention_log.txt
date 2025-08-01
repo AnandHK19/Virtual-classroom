@@ -1,0 +1,2585 @@
+2025-08-01 16:37:25.168037 - Not Paying Attention
+2025-08-01 16:37:25.207682 - Not Paying Attention
+2025-08-01 16:37:25.270545 - Not Paying Attention
+2025-08-01 16:37:25.312626 - Not Paying Attention
+2025-08-01 16:37:25.356899 - Not Paying Attention
+2025-08-01 16:37:25.387138 - Not Paying Attention
+2025-08-01 16:37:25.419355 - Not Paying Attention
+2025-08-01 16:37:25.451486 - Not Paying Attention
+2025-08-01 16:37:25.480462 - Not Paying Attention
+2025-08-01 16:37:25.515382 - Not Paying Attention
+2025-08-01 16:37:25.558136 - Not Paying Attention
+2025-08-01 16:37:25.594062 - Not Paying Attention
+2025-08-01 16:37:25.651427 - Not Paying Attention
+2025-08-01 16:37:25.682604 - Not Paying Attention
+2025-08-01 16:37:25.715511 - Not Paying Attention
+2025-08-01 16:37:25.747329 - Not Paying Attention
+2025-08-01 16:37:25.777742 - Not Paying Attention
+2025-08-01 16:37:25.808925 - Not Paying Attention
+2025-08-01 16:37:25.843571 - Not Paying Attention
+2025-08-01 16:37:25.886495 - Not Paying Attention
+2025-08-01 16:37:25.917890 - Not Paying Attention
+2025-08-01 16:37:25.947428 - Not Paying Attention
+2025-08-01 16:37:25.980805 - Not Paying Attention
+2025-08-01 16:37:26.021020 - Paying Attention
+2025-08-01 16:37:26.070946 - Paying Attention
+2025-08-01 16:37:26.119470 - Paying Attention
+2025-08-01 16:37:26.162816 - Paying Attention
+2025-08-01 16:37:26.212374 - Paying Attention
+2025-08-01 16:37:26.281273 - Paying Attention
+2025-08-01 16:37:26.336325 - Paying Attention
+2025-08-01 16:37:26.387811 - Paying Attention
+2025-08-01 16:37:26.446887 - Paying Attention
+2025-08-01 16:37:26.509140 - Paying Attention
+2025-08-01 16:37:26.568919 - Paying Attention
+2025-08-01 16:37:26.621105 - Paying Attention
+2025-08-01 16:37:26.680788 - Paying Attention
+2025-08-01 16:37:26.741891 - Paying Attention
+2025-08-01 16:37:26.803344 - Paying Attention
+2025-08-01 16:37:26.862791 - Paying Attention
+2025-08-01 16:37:26.914109 - Paying Attention
+2025-08-01 16:37:26.974933 - Paying Attention
+2025-08-01 16:37:27.026483 - Paying Attention
+2025-08-01 16:37:27.090169 - Paying Attention
+2025-08-01 16:37:27.153596 - Paying Attention
+2025-08-01 16:37:27.213524 - Paying Attention
+2025-08-01 16:37:27.273652 - Paying Attention
+2025-08-01 16:37:27.344277 - Paying Attention
+2025-08-01 16:37:27.401986 - Paying Attention
+2025-08-01 16:37:27.459646 - Paying Attention
+2025-08-01 16:37:27.523384 - Paying Attention
+2025-08-01 16:37:27.584577 - Paying Attention
+2025-08-01 16:37:27.643604 - Paying Attention
+2025-08-01 16:37:27.708437 - Paying Attention
+2025-08-01 16:37:27.766725 - Paying Attention
+2025-08-01 16:37:27.830357 - Paying Attention
+2025-08-01 16:37:27.891854 - Paying Attention
+2025-08-01 16:37:27.952550 - Paying Attention
+2025-08-01 16:37:28.021339 - Paying Attention
+2025-08-01 16:37:28.075685 - Paying Attention
+2025-08-01 16:37:28.137515 - Paying Attention
+2025-08-01 16:37:28.198886 - Paying Attention
+2025-08-01 16:37:28.264951 - Paying Attention
+2025-08-01 16:37:28.322701 - Paying Attention
+2025-08-01 16:37:28.398223 - Paying Attention
+2025-08-01 16:37:28.457440 - Paying Attention
+2025-08-01 16:37:28.512879 - Paying Attention
+2025-08-01 16:37:28.572925 - Paying Attention
+2025-08-01 16:37:28.633585 - Paying Attention
+2025-08-01 16:37:28.699731 - Paying Attention
+2025-08-01 16:37:28.756669 - Paying Attention
+2025-08-01 16:37:28.817489 - Paying Attention
+2025-08-01 16:37:28.876691 - Not Paying Attention
+2025-08-01 16:37:28.927680 - Paying Attention
+2025-08-01 16:37:28.989979 - Paying Attention
+2025-08-01 16:37:29.054285 - Paying Attention
+2025-08-01 16:37:29.118169 - Paying Attention
+2025-08-01 16:37:29.179126 - Paying Attention
+2025-08-01 16:37:29.240641 - Paying Attention
+2025-08-01 16:37:29.303632 - Paying Attention
+2025-08-01 16:37:29.369408 - Paying Attention
+2025-08-01 16:37:29.425277 - Paying Attention
+2025-08-01 16:37:29.493138 - Paying Attention
+2025-08-01 16:37:29.556680 - Paying Attention
+2025-08-01 16:37:29.619162 - Paying Attention
+2025-08-01 16:37:29.675295 - Paying Attention
+2025-08-01 16:37:29.725586 - Paying Attention
+2025-08-01 16:37:29.787758 - Paying Attention
+2025-08-01 16:37:29.848419 - Paying Attention
+2025-08-01 16:37:29.918105 - Paying Attention
+2025-08-01 16:37:29.983708 - Paying Attention
+2025-08-01 16:37:30.044851 - Paying Attention
+2025-08-01 16:37:30.103045 - Paying Attention
+2025-08-01 16:37:30.168803 - Paying Attention
+2025-08-01 16:37:30.223862 - Paying Attention
+2025-08-01 16:37:30.287309 - Paying Attention
+2025-08-01 16:37:30.345030 - Paying Attention
+2025-08-01 16:37:30.408493 - Paying Attention
+2025-08-01 16:37:30.469281 - Paying Attention
+2025-08-01 16:37:30.555869 - Paying Attention
+2025-08-01 16:37:30.643213 - Paying Attention
+2025-08-01 16:37:30.713820 - Paying Attention
+2025-08-01 16:37:30.771727 - Paying Attention
+2025-08-01 16:37:30.835452 - Paying Attention
+2025-08-01 16:37:30.906882 - Paying Attention
+2025-08-01 16:37:30.966772 - Paying Attention
+2025-08-01 16:37:31.027697 - Paying Attention
+2025-08-01 16:37:31.073692 - Paying Attention
+2025-08-01 16:37:31.121663 - Paying Attention
+2025-08-01 16:37:31.183263 - Not Paying Attention
+2025-08-01 16:37:31.245481 - Paying Attention
+2025-08-01 16:37:31.310641 - Paying Attention
+2025-08-01 16:37:31.368080 - Paying Attention
+2025-08-01 16:37:31.428610 - Paying Attention
+2025-08-01 16:37:31.480875 - Paying Attention
+2025-08-01 16:37:31.549930 - Paying Attention
+2025-08-01 16:37:31.607343 - Paying Attention
+2025-08-01 16:37:31.674927 - Paying Attention
+2025-08-01 16:37:31.733834 - Paying Attention
+2025-08-01 16:37:31.793393 - Paying Attention
+2025-08-01 16:37:31.857109 - Paying Attention
+2025-08-01 16:37:31.917515 - Paying Attention
+2025-08-01 16:37:31.976566 - Paying Attention
+2025-08-01 16:37:32.041104 - Paying Attention
+2025-08-01 16:37:32.095701 - Paying Attention
+2025-08-01 16:37:32.154528 - Paying Attention
+2025-08-01 16:37:32.208191 - Paying Attention
+2025-08-01 16:37:32.268685 - Paying Attention
+2025-08-01 16:37:32.331249 - Paying Attention
+2025-08-01 16:37:32.390605 - Paying Attention
+2025-08-01 16:37:32.440287 - Paying Attention
+2025-08-01 16:37:32.509838 - Paying Attention
+2025-08-01 16:37:32.572449 - Paying Attention
+2025-08-01 16:37:32.617449 - Not Paying Attention
+2025-08-01 16:37:32.679866 - Paying Attention
+2025-08-01 16:37:32.727133 - Not Paying Attention
+2025-08-01 16:37:32.779396 - Not Paying Attention
+2025-08-01 16:37:32.824624 - Not Paying Attention
+2025-08-01 16:37:32.870950 - Not Paying Attention
+2025-08-01 16:37:32.915570 - Not Paying Attention
+2025-08-01 16:37:32.960363 - Not Paying Attention
+2025-08-01 16:37:33.006345 - Not Paying Attention
+2025-08-01 16:37:33.068616 - Paying Attention
+2025-08-01 16:37:33.123103 - Not Paying Attention
+2025-08-01 16:37:33.172007 - Not Paying Attention
+2025-08-01 16:37:33.226126 - Not Paying Attention
+2025-08-01 16:37:33.281139 - Not Paying Attention
+2025-08-01 16:37:33.332641 - Not Paying Attention
+2025-08-01 16:37:33.381984 - Not Paying Attention
+2025-08-01 16:37:33.426601 - Not Paying Attention
+2025-08-01 16:37:33.486154 - Paying Attention
+2025-08-01 16:37:33.542639 - Paying Attention
+2025-08-01 16:37:33.594036 - Paying Attention
+2025-08-01 16:37:33.653549 - Paying Attention
+2025-08-01 16:37:33.699089 - Paying Attention
+2025-08-01 16:37:33.744425 - Paying Attention
+2025-08-01 16:37:33.791604 - Paying Attention
+2025-08-01 16:37:33.838417 - Paying Attention
+2025-08-01 16:37:33.890644 - Paying Attention
+2025-08-01 16:37:33.952260 - Paying Attention
+2025-08-01 16:37:34.015364 - Paying Attention
+2025-08-01 16:37:34.078807 - Paying Attention
+2025-08-01 16:37:34.142958 - Paying Attention
+2025-08-01 16:37:34.209542 - Paying Attention
+2025-08-01 16:37:34.268118 - Paying Attention
+2025-08-01 16:37:34.332385 - Paying Attention
+2025-08-01 16:37:34.394479 - Paying Attention
+2025-08-01 16:37:34.440544 - Not Paying Attention
+2025-08-01 16:37:34.484526 - Not Paying Attention
+2025-08-01 16:37:34.535476 - Not Paying Attention
+2025-08-01 16:37:34.584781 - Not Paying Attention
+2025-08-01 16:37:34.632834 - Not Paying Attention
+2025-08-01 16:37:34.675127 - Not Paying Attention
+2025-08-01 16:37:34.721564 - Not Paying Attention
+2025-08-01 16:37:34.768180 - Not Paying Attention
+2025-08-01 16:37:34.816078 - Not Paying Attention
+2025-08-01 16:37:34.863384 - Not Paying Attention
+2025-08-01 16:37:34.909262 - Not Paying Attention
+2025-08-01 16:37:34.953163 - Not Paying Attention
+2025-08-01 16:37:35.003426 - Not Paying Attention
+2025-08-01 16:37:35.050701 - Not Paying Attention
+2025-08-01 16:37:35.098275 - Not Paying Attention
+2025-08-01 16:37:35.143276 - Not Paying Attention
+2025-08-01 16:37:35.187256 - Not Paying Attention
+2025-08-01 16:37:35.233175 - Not Paying Attention
+2025-08-01 16:37:35.277303 - Not Paying Attention
+2025-08-01 16:37:35.326548 - Not Paying Attention
+2025-08-01 16:37:35.375149 - Not Paying Attention
+2025-08-01 16:37:35.420094 - Not Paying Attention
+2025-08-01 16:37:35.465845 - Not Paying Attention
+2025-08-01 16:37:35.512851 - Not Paying Attention
+2025-08-01 16:37:35.545425 - Not Paying Attention
+2025-08-01 16:37:35.593532 - Not Paying Attention
+2025-08-01 16:37:35.641536 - Not Paying Attention
+2025-08-01 16:37:35.680865 - Not Paying Attention
+2025-08-01 16:37:35.732347 - Not Paying Attention
+2025-08-01 16:37:35.777950 - Not Paying Attention
+2025-08-01 16:37:35.825344 - Not Paying Attention
+2025-08-01 16:37:35.871291 - Not Paying Attention
+2025-08-01 16:37:35.916296 - Not Paying Attention
+2025-08-01 16:37:35.952389 - Not Paying Attention
+2025-08-01 16:37:35.993444 - Not Paying Attention
+2025-08-01 16:37:36.025033 - Not Paying Attention
+2025-08-01 16:37:36.054628 - Not Paying Attention
+2025-08-01 16:37:36.086883 - Not Paying Attention
+2025-08-01 16:37:36.117360 - Not Paying Attention
+2025-08-01 16:37:36.165267 - Not Paying Attention
+2025-08-01 16:37:36.196348 - Not Paying Attention
+2025-08-01 16:37:36.232655 - Not Paying Attention
+2025-08-01 16:37:36.275690 - Not Paying Attention
+2025-08-01 16:37:36.306800 - Not Paying Attention
+2025-08-01 16:37:36.353779 - Not Paying Attention
+2025-08-01 16:37:36.399022 - Not Paying Attention
+2025-08-01 16:37:36.434233 - Not Paying Attention
+2025-08-01 16:37:36.479347 - Not Paying Attention
+2025-08-01 16:37:36.522961 - Not Paying Attention
+2025-08-01 16:37:36.571039 - Not Paying Attention
+2025-08-01 16:37:36.616520 - Not Paying Attention
+2025-08-01 16:37:36.649978 - Not Paying Attention
+2025-08-01 16:37:36.697464 - Not Paying Attention
+2025-08-01 16:37:36.743464 - Not Paying Attention
+2025-08-01 16:37:36.789097 - Not Paying Attention
+2025-08-01 16:37:36.838643 - Not Paying Attention
+2025-08-01 16:37:36.881856 - Not Paying Attention
+2025-08-01 16:37:36.919235 - Not Paying Attention
+2025-08-01 16:37:36.961452 - Not Paying Attention
+2025-08-01 16:37:37.019093 - Paying Attention
+2025-08-01 16:37:37.084660 - Paying Attention
+2025-08-01 16:37:37.151734 - Paying Attention
+2025-08-01 16:37:37.211285 - Paying Attention
+2025-08-01 16:37:37.293913 - Paying Attention
+2025-08-01 16:37:37.355749 - Paying Attention
+2025-08-01 16:37:37.413409 - Paying Attention
+2025-08-01 16:37:37.475829 - Paying Attention
+2025-08-01 16:37:37.539082 - Paying Attention
+2025-08-01 16:37:37.599074 - Paying Attention
+2025-08-01 16:37:37.680687 - Paying Attention
+2025-08-01 16:37:37.747228 - Paying Attention
+2025-08-01 16:37:37.804781 - Paying Attention
+2025-08-01 16:37:37.872397 - Paying Attention
+2025-08-01 16:37:37.930120 - Paying Attention
+2025-08-01 16:37:37.986251 - Paying Attention
+2025-08-01 16:37:38.038910 - Paying Attention
+2025-08-01 16:37:38.099088 - Paying Attention
+2025-08-01 16:37:38.149552 - Paying Attention
+2025-08-01 16:37:38.209863 - Paying Attention
+2025-08-01 16:37:38.263245 - Paying Attention
+2025-08-01 16:37:38.324105 - Paying Attention
+2025-08-01 16:37:38.383144 - Paying Attention
+2025-08-01 16:37:38.442377 - Paying Attention
+2025-08-01 16:37:38.505875 - Paying Attention
+2025-08-01 16:37:38.569180 - Paying Attention
+2025-08-01 16:37:38.631106 - Paying Attention
+2025-08-01 16:37:38.692720 - Paying Attention
+2025-08-01 16:37:38.736570 - Paying Attention
+2025-08-01 16:37:38.802527 - Paying Attention
+2025-08-01 16:37:38.866882 - Paying Attention
+2025-08-01 16:37:38.927665 - Paying Attention
+2025-08-01 16:37:38.993408 - Paying Attention
+2025-08-01 16:37:39.056140 - Paying Attention
+2025-08-01 16:37:39.115119 - Paying Attention
+2025-08-01 16:37:39.177862 - Paying Attention
+2025-08-01 16:37:39.235422 - Paying Attention
+2025-08-01 16:37:39.300443 - Paying Attention
+2025-08-01 16:37:39.364861 - Paying Attention
+2025-08-01 16:37:39.433497 - Paying Attention
+2025-08-01 16:37:39.493828 - Paying Attention
+2025-08-01 16:37:39.551594 - Paying Attention
+2025-08-01 16:37:39.619868 - Paying Attention
+2025-08-01 16:37:39.679714 - Paying Attention
+2025-08-01 16:37:39.737113 - Paying Attention
+2025-08-01 16:37:39.807767 - Paying Attention
+2025-08-01 16:37:39.867088 - Paying Attention
+2025-08-01 16:37:39.927364 - Paying Attention
+2025-08-01 16:37:39.986718 - Paying Attention
+2025-08-01 16:37:40.058023 - Paying Attention
+2025-08-01 16:37:40.108130 - Paying Attention
+2025-08-01 16:37:40.174968 - Paying Attention
+2025-08-01 16:37:40.247297 - Paying Attention
+2025-08-01 16:37:40.313835 - Paying Attention
+2025-08-01 16:37:40.378186 - Paying Attention
+2025-08-01 16:37:40.441662 - Paying Attention
+2025-08-01 16:37:40.502498 - Paying Attention
+2025-08-01 16:37:40.558797 - Paying Attention
+2025-08-01 16:37:40.607570 - Paying Attention
+2025-08-01 16:37:40.668379 - Paying Attention
+2025-08-01 16:37:40.714066 - Paying Attention
+2025-08-01 16:37:40.758810 - Paying Attention
+2025-08-01 16:37:40.806867 - Paying Attention
+2025-08-01 16:37:40.851535 - Paying Attention
+2025-08-01 16:37:40.899970 - Paying Attention
+2025-08-01 16:37:40.950815 - Paying Attention
+2025-08-01 16:37:41.009536 - Paying Attention
+2025-08-01 16:37:41.053899 - Paying Attention
+2025-08-01 16:37:41.101490 - Paying Attention
+2025-08-01 16:37:41.145886 - Paying Attention
+2025-08-01 16:37:41.191807 - Paying Attention
+2025-08-01 16:37:41.245914 - Paying Attention
+2025-08-01 16:37:41.307251 - Paying Attention
+2025-08-01 16:37:41.352649 - Paying Attention
+2025-08-01 16:37:41.397419 - Paying Attention
+2025-08-01 16:37:41.455268 - Paying Attention
+2025-08-01 16:37:41.504681 - Paying Attention
+2025-08-01 16:37:41.551303 - Paying Attention
+2025-08-01 16:37:41.599587 - Paying Attention
+2025-08-01 16:37:41.673752 - Paying Attention
+2025-08-01 16:37:41.722433 - Paying Attention
+2025-08-01 16:37:41.769568 - Paying Attention
+2025-08-01 16:37:41.814180 - Paying Attention
+2025-08-01 16:37:41.861156 - Paying Attention
+2025-08-01 16:37:41.911180 - Paying Attention
+2025-08-01 16:37:41.973679 - Paying Attention
+2025-08-01 16:37:42.044765 - Paying Attention
+2025-08-01 16:37:42.108375 - Paying Attention
+2025-08-01 16:37:42.166411 - Paying Attention
+2025-08-01 16:37:42.223964 - Paying Attention
+2025-08-01 16:37:42.275529 - Paying Attention
+2025-08-01 16:37:42.335917 - Paying Attention
+2025-08-01 16:37:42.396599 - Paying Attention
+2025-08-01 16:37:42.462522 - Paying Attention
+2025-08-01 16:37:42.522069 - Paying Attention
+2025-08-01 16:37:42.588014 - Paying Attention
+2025-08-01 16:37:42.649014 - Paying Attention
+2025-08-01 16:37:42.712363 - Paying Attention
+2025-08-01 16:37:42.774006 - Paying Attention
+2025-08-01 16:37:42.837520 - Paying Attention
+2025-08-01 16:37:42.897263 - Paying Attention
+2025-08-01 16:37:42.959181 - Paying Attention
+2025-08-01 16:37:43.020971 - Paying Attention
+2025-08-01 16:37:43.078739 - Paying Attention
+2025-08-01 16:37:43.141113 - Paying Attention
+2025-08-01 16:37:43.204530 - Paying Attention
+2025-08-01 16:37:43.265217 - Paying Attention
+2025-08-01 16:37:43.316141 - Paying Attention
+2025-08-01 16:37:43.378708 - Paying Attention
+2025-08-01 16:37:43.442301 - Paying Attention
+2025-08-01 16:37:43.499405 - Paying Attention
+2025-08-01 16:37:43.546637 - Not Paying Attention
+2025-08-01 16:37:43.594961 - Not Paying Attention
+2025-08-01 16:37:43.642026 - Paying Attention
+2025-08-01 16:37:43.703932 - Paying Attention
+2025-08-01 16:37:43.762787 - Paying Attention
+2025-08-01 16:37:43.812766 - Paying Attention
+2025-08-01 16:37:43.857995 - Paying Attention
+2025-08-01 16:37:43.906058 - Paying Attention
+2025-08-01 16:37:43.951661 - Paying Attention
+2025-08-01 16:37:43.999535 - Paying Attention
+2025-08-01 16:37:44.082593 - Paying Attention
+2025-08-01 16:37:44.153566 - Paying Attention
+2025-08-01 16:37:44.210076 - Paying Attention
+2025-08-01 16:37:44.267877 - Paying Attention
+2025-08-01 16:37:44.338049 - Paying Attention
+2025-08-01 16:37:44.395214 - Paying Attention
+2025-08-01 16:37:44.456405 - Paying Attention
+2025-08-01 16:37:44.517999 - Paying Attention
+2025-08-01 16:37:44.577055 - Paying Attention
+2025-08-01 16:37:44.643933 - Paying Attention
+2025-08-01 16:37:44.702054 - Paying Attention
+2025-08-01 16:37:44.760693 - Paying Attention
+2025-08-01 16:37:44.824083 - Paying Attention
+2025-08-01 16:37:44.870712 - Paying Attention
+2025-08-01 16:37:44.938428 - Paying Attention
+2025-08-01 16:37:44.998232 - Paying Attention
+2025-08-01 16:37:45.058431 - Paying Attention
+2025-08-01 16:37:45.129033 - Paying Attention
+2025-08-01 16:37:45.207531 - Paying Attention
+2025-08-01 16:37:45.263975 - Paying Attention
+2025-08-01 16:37:45.333024 - Paying Attention
+2025-08-01 16:37:45.390258 - Paying Attention
+2025-08-01 16:37:45.458558 - Paying Attention
+2025-08-01 16:37:45.536375 - Paying Attention
+2025-08-01 16:37:45.597207 - Paying Attention
+2025-08-01 16:37:45.657915 - Paying Attention
+2025-08-01 16:37:45.721932 - Paying Attention
+2025-08-01 16:37:45.787199 - Paying Attention
+2025-08-01 16:37:45.848589 - Paying Attention
+2025-08-01 16:37:45.906578 - Paying Attention
+2025-08-01 16:37:45.982483 - Paying Attention
+2025-08-01 16:37:46.035832 - Paying Attention
+2025-08-01 16:37:46.097739 - Paying Attention
+2025-08-01 16:37:46.157453 - Paying Attention
+2025-08-01 16:37:46.218193 - Paying Attention
+2025-08-01 16:37:46.277849 - Paying Attention
+2025-08-01 16:37:46.327375 - Paying Attention
+2025-08-01 16:37:46.388786 - Paying Attention
+2025-08-01 16:37:46.438010 - Paying Attention
+2025-08-01 16:37:46.504301 - Paying Attention
+2025-08-01 16:37:46.572011 - Paying Attention
+2025-08-01 16:37:46.633797 - Not Paying Attention
+2025-08-01 16:37:46.689056 - Paying Attention
+2025-08-01 16:37:46.752703 - Paying Attention
+2025-08-01 16:37:46.816189 - Not Paying Attention
+2025-08-01 16:37:46.878904 - Paying Attention
+2025-08-01 16:37:46.941621 - Paying Attention
+2025-08-01 16:37:47.001030 - Not Paying Attention
+2025-08-01 16:37:47.060730 - Not Paying Attention
+2025-08-01 16:37:47.120373 - Not Paying Attention
+2025-08-01 16:37:47.184679 - Not Paying Attention
+2025-08-01 16:37:47.246667 - Not Paying Attention
+2025-08-01 16:37:47.300917 - Not Paying Attention
+2025-08-01 16:37:47.344072 - Not Paying Attention
+2025-08-01 16:37:47.391412 - Not Paying Attention
+2025-08-01 16:37:47.436191 - Not Paying Attention
+2025-08-01 16:37:47.486526 - Not Paying Attention
+2025-08-01 16:37:47.530134 - Not Paying Attention
+2025-08-01 16:37:47.615542 - Not Paying Attention
+2025-08-01 16:37:47.665577 - Not Paying Attention
+2025-08-01 16:37:47.725171 - Not Paying Attention
+2025-08-01 16:37:47.769187 - Not Paying Attention
+2025-08-01 16:37:47.817738 - Not Paying Attention
+2025-08-01 16:37:47.856738 - Not Paying Attention
+2025-08-01 16:37:47.911225 - Not Paying Attention
+2025-08-01 16:37:47.956209 - Not Paying Attention
+2025-08-01 16:37:48.003623 - Not Paying Attention
+2025-08-01 16:37:48.043757 - Not Paying Attention
+2025-08-01 16:37:48.094630 - Not Paying Attention
+2025-08-01 16:37:48.148554 - Not Paying Attention
+2025-08-01 16:37:48.209120 - Not Paying Attention
+2025-08-01 16:37:48.270258 - Not Paying Attention
+2025-08-01 16:37:48.317129 - Not Paying Attention
+2025-08-01 16:37:48.363974 - Not Paying Attention
+2025-08-01 16:37:48.402763 - Not Paying Attention
+2025-08-01 16:37:48.466793 - Not Paying Attention
+2025-08-01 16:37:48.514393 - Not Paying Attention
+2025-08-01 16:37:48.559546 - Not Paying Attention
+2025-08-01 16:37:48.606534 - Not Paying Attention
+2025-08-01 16:37:48.665677 - Not Paying Attention
+2025-08-01 16:37:48.730133 - Not Paying Attention
+2025-08-01 16:37:48.789834 - Paying Attention
+2025-08-01 16:37:48.853041 - Not Paying Attention
+2025-08-01 16:37:48.915808 - Not Paying Attention
+2025-08-01 16:37:48.973176 - Not Paying Attention
+2025-08-01 16:37:49.025578 - Not Paying Attention
+2025-08-01 16:37:49.086318 - Not Paying Attention
+2025-08-01 16:37:49.143157 - Not Paying Attention
+2025-08-01 16:37:49.208184 - Not Paying Attention
+2025-08-01 16:37:49.257856 - Not Paying Attention
+2025-08-01 16:37:49.320524 - Paying Attention
+2025-08-01 16:37:49.383161 - Paying Attention
+2025-08-01 16:37:49.455313 - Not Paying Attention
+2025-08-01 16:37:49.511914 - Not Paying Attention
+2025-08-01 16:37:49.587392 - Not Paying Attention
+2025-08-01 16:37:49.652613 - Not Paying Attention
+2025-08-01 16:37:49.713799 - Not Paying Attention
+2025-08-01 16:37:49.783664 - Not Paying Attention
+2025-08-01 16:37:49.841663 - Not Paying Attention
+2025-08-01 16:37:49.904883 - Not Paying Attention
+2025-08-01 16:37:49.962431 - Not Paying Attention
+2025-08-01 16:37:50.016212 - Not Paying Attention
+2025-08-01 16:37:50.074075 - Not Paying Attention
+2025-08-01 16:37:50.138866 - Not Paying Attention
+2025-08-01 16:37:50.197444 - Not Paying Attention
+2025-08-01 16:37:50.262521 - Not Paying Attention
+2025-08-01 16:37:50.331749 - Not Paying Attention
+2025-08-01 16:37:50.394396 - Not Paying Attention
+2025-08-01 16:37:50.451969 - Not Paying Attention
+2025-08-01 16:37:50.512013 - Paying Attention
+2025-08-01 16:37:50.580545 - Paying Attention
+2025-08-01 16:37:50.643276 - Paying Attention
+2025-08-01 16:37:50.695724 - Paying Attention
+2025-08-01 16:37:50.749876 - Paying Attention
+2025-08-01 16:37:50.811721 - Paying Attention
+2025-08-01 16:37:50.873459 - Paying Attention
+2025-08-01 16:37:50.935588 - Paying Attention
+2025-08-01 16:37:50.999427 - Paying Attention
+2025-08-01 16:37:51.060815 - Paying Attention
+2025-08-01 16:37:51.119027 - Paying Attention
+2025-08-01 16:37:51.181711 - Paying Attention
+2025-08-01 16:37:51.237774 - Paying Attention
+2025-08-01 16:37:51.300093 - Paying Attention
+2025-08-01 16:37:51.364069 - Paying Attention
+2025-08-01 16:37:51.421223 - Paying Attention
+2025-08-01 16:37:51.484651 - Paying Attention
+2025-08-01 16:37:51.544820 - Paying Attention
+2025-08-01 16:37:51.617329 - Paying Attention
+2025-08-01 16:37:51.675869 - Paying Attention
+2025-08-01 16:37:51.728141 - Paying Attention
+2025-08-01 16:37:51.789549 - Paying Attention
+2025-08-01 16:37:51.859069 - Paying Attention
+2025-08-01 16:37:51.916244 - Paying Attention
+2025-08-01 16:37:51.979461 - Paying Attention
+2025-08-01 16:37:52.043830 - Paying Attention
+2025-08-01 16:37:52.102814 - Paying Attention
+2025-08-01 16:37:52.161869 - Paying Attention
+2025-08-01 16:37:52.226807 - Paying Attention
+2025-08-01 16:37:52.288954 - Paying Attention
+2025-08-01 16:37:52.355028 - Paying Attention
+2025-08-01 16:37:52.417402 - Paying Attention
+2025-08-01 16:37:52.480599 - Paying Attention
+2025-08-01 16:37:52.545172 - Paying Attention
+2025-08-01 16:37:52.603759 - Paying Attention
+2025-08-01 16:37:52.663755 - Paying Attention
+2025-08-01 16:37:52.728229 - Paying Attention
+2025-08-01 16:37:52.791981 - Paying Attention
+2025-08-01 16:37:52.851162 - Paying Attention
+2025-08-01 16:37:52.911166 - Paying Attention
+2025-08-01 16:37:52.983087 - Paying Attention
+2025-08-01 16:37:53.046124 - Paying Attention
+2025-08-01 16:37:53.103753 - Paying Attention
+2025-08-01 16:37:53.165592 - Paying Attention
+2025-08-01 16:37:53.231450 - Paying Attention
+2025-08-01 16:37:53.297841 - Paying Attention
+2025-08-01 16:37:53.355685 - Paying Attention
+2025-08-01 16:37:53.413987 - Paying Attention
+2025-08-01 16:37:53.476152 - Paying Attention
+2025-08-01 16:37:53.536199 - Paying Attention
+2025-08-01 16:37:53.604918 - Paying Attention
+2025-08-01 16:37:53.662617 - Paying Attention
+2025-08-01 16:37:53.728089 - Paying Attention
+2025-08-01 16:37:53.785825 - Paying Attention
+2025-08-01 16:37:53.849258 - Paying Attention
+2025-08-01 16:37:53.910258 - Paying Attention
+2025-08-01 16:37:53.981374 - Paying Attention
+2025-08-01 16:37:54.041975 - Paying Attention
+2025-08-01 16:37:54.103690 - Paying Attention
+2025-08-01 16:37:54.162285 - Paying Attention
+2025-08-01 16:37:54.221848 - Paying Attention
+2025-08-01 16:37:54.282048 - Paying Attention
+2025-08-01 16:37:54.355140 - Paying Attention
+2025-08-01 16:37:54.412580 - Paying Attention
+2025-08-01 16:37:54.469284 - Paying Attention
+2025-08-01 16:37:54.533790 - Paying Attention
+2025-08-01 16:37:54.599146 - Paying Attention
+2025-08-01 16:37:54.659677 - Paying Attention
+2025-08-01 16:37:54.723895 - Paying Attention
+2025-08-01 16:37:54.781557 - Paying Attention
+2025-08-01 16:37:54.848040 - Paying Attention
+2025-08-01 16:37:54.912740 - Paying Attention
+2025-08-01 16:37:54.967077 - Paying Attention
+2025-08-01 16:37:55.034331 - Paying Attention
+2025-08-01 16:37:55.095525 - Paying Attention
+2025-08-01 16:37:55.157355 - Paying Attention
+2025-08-01 16:37:55.212533 - Paying Attention
+2025-08-01 16:37:55.278511 - Paying Attention
+2025-08-01 16:37:55.343385 - Paying Attention
+2025-08-01 16:37:55.405941 - Paying Attention
+2025-08-01 16:37:55.466112 - Paying Attention
+2025-08-01 16:37:55.531743 - Paying Attention
+2025-08-01 16:37:55.595817 - Paying Attention
+2025-08-01 16:37:55.666939 - Paying Attention
+2025-08-01 16:37:55.724549 - Paying Attention
+2025-08-01 16:37:55.784306 - Paying Attention
+2025-08-01 16:37:55.851818 - Paying Attention
+2025-08-01 16:37:55.918257 - Paying Attention
+2025-08-01 16:37:55.970800 - Paying Attention
+2025-08-01 16:37:56.035691 - Paying Attention
+2025-08-01 16:37:56.104858 - Paying Attention
+2025-08-01 16:37:56.166800 - Paying Attention
+2025-08-01 16:37:56.222392 - Paying Attention
+2025-08-01 16:37:56.288780 - Paying Attention
+2025-08-01 16:37:56.344270 - Paying Attention
+2025-08-01 16:37:56.408498 - Paying Attention
+2025-08-01 16:37:56.474270 - Paying Attention
+2025-08-01 16:37:56.549079 - Paying Attention
+2025-08-01 16:37:56.626484 - Paying Attention
+2025-08-01 16:37:56.696412 - Paying Attention
+2025-08-01 16:37:56.758894 - Paying Attention
+2025-08-01 16:37:56.816097 - Paying Attention
+2025-08-01 16:37:56.878629 - Paying Attention
+2025-08-01 16:37:56.943646 - Paying Attention
+2025-08-01 16:37:57.020651 - Paying Attention
+2025-08-01 16:37:57.082962 - Paying Attention
+2025-08-01 16:37:57.145381 - Paying Attention
+2025-08-01 16:37:57.207203 - Paying Attention
+2025-08-01 16:37:57.277080 - Paying Attention
+2025-08-01 16:37:57.348359 - Paying Attention
+2025-08-01 16:37:57.413390 - Paying Attention
+2025-08-01 16:37:57.489585 - Paying Attention
+2025-08-01 16:37:57.548857 - Paying Attention
+2025-08-01 16:37:57.614150 - Paying Attention
+2025-08-01 16:37:57.673749 - Paying Attention
+2025-08-01 16:37:57.740357 - Paying Attention
+2025-08-01 16:37:57.811878 - Paying Attention
+2025-08-01 16:37:57.877972 - Paying Attention
+2025-08-01 16:37:57.940212 - Paying Attention
+2025-08-01 16:37:58.001290 - Paying Attention
+2025-08-01 16:37:58.060480 - Paying Attention
+2025-08-01 16:37:58.121645 - Paying Attention
+2025-08-01 16:37:58.184879 - Paying Attention
+2025-08-01 16:37:58.247626 - Paying Attention
+2025-08-01 16:37:58.314590 - Paying Attention
+2025-08-01 16:37:58.374232 - Paying Attention
+2025-08-01 16:37:58.432753 - Paying Attention
+2025-08-01 16:37:58.495525 - Paying Attention
+2025-08-01 16:37:58.559003 - Paying Attention
+2025-08-01 16:37:58.620317 - Paying Attention
+2025-08-01 16:37:58.677133 - Paying Attention
+2025-08-01 16:37:58.738697 - Paying Attention
+2025-08-01 16:37:58.804543 - Paying Attention
+2025-08-01 16:37:58.863406 - Paying Attention
+2025-08-01 16:37:58.928844 - Paying Attention
+2025-08-01 16:37:58.987138 - Paying Attention
+2025-08-01 16:37:59.052481 - Paying Attention
+2025-08-01 16:37:59.119046 - Paying Attention
+2025-08-01 16:37:59.182731 - Paying Attention
+2025-08-01 16:37:59.254248 - Paying Attention
+2025-08-01 16:37:59.321920 - Paying Attention
+2025-08-01 16:37:59.386080 - Paying Attention
+2025-08-01 16:37:59.448146 - Paying Attention
+2025-08-01 16:37:59.530621 - Paying Attention
+2025-08-01 16:37:59.606264 - Paying Attention
+2025-08-01 16:37:59.679899 - Not Paying Attention
+2025-08-01 16:37:59.743321 - Not Paying Attention
+2025-08-01 16:37:59.804300 - Not Paying Attention
+2025-08-01 16:37:59.864230 - Not Paying Attention
+2025-08-01 16:37:59.924196 - Not Paying Attention
+2025-08-01 16:37:59.984531 - Not Paying Attention
+2025-08-01 16:38:00.050888 - Not Paying Attention
+2025-08-01 16:38:00.106729 - Paying Attention
+2025-08-01 16:38:00.167192 - Paying Attention
+2025-08-01 16:38:00.233005 - Paying Attention
+2025-08-01 16:38:00.276141 - Not Paying Attention
+2025-08-01 16:38:00.322911 - Not Paying Attention
+2025-08-01 16:38:00.368915 - Not Paying Attention
+2025-08-01 16:38:00.416811 - Not Paying Attention
+2025-08-01 16:38:00.462286 - Not Paying Attention
+2025-08-01 16:38:00.507486 - Not Paying Attention
+2025-08-01 16:38:00.570530 - Not Paying Attention
+2025-08-01 16:38:00.617082 - Not Paying Attention
+2025-08-01 16:38:00.663815 - Not Paying Attention
+2025-08-01 16:38:00.711032 - Not Paying Attention
+2025-08-01 16:38:00.759614 - Not Paying Attention
+2025-08-01 16:38:00.805301 - Not Paying Attention
+2025-08-01 16:38:00.866465 - Not Paying Attention
+2025-08-01 16:38:00.915806 - Not Paying Attention
+2025-08-01 16:38:00.965939 - Not Paying Attention
+2025-08-01 16:38:01.011164 - Not Paying Attention
+2025-08-01 16:38:01.055130 - Not Paying Attention
+2025-08-01 16:38:01.102268 - Not Paying Attention
+2025-08-01 16:38:01.163191 - Not Paying Attention
+2025-08-01 16:38:01.224900 - Not Paying Attention
+2025-08-01 16:38:01.285847 - Not Paying Attention
+2025-08-01 16:38:01.336177 - Not Paying Attention
+2025-08-01 16:38:01.392973 - Not Paying Attention
+2025-08-01 16:38:01.428861 - Not Paying Attention
+2025-08-01 16:38:01.496202 - Paying Attention
+2025-08-01 16:38:01.550832 - Paying Attention
+2025-08-01 16:38:01.611422 - Not Paying Attention
+2025-08-01 16:38:01.671528 - Not Paying Attention
+2025-08-01 16:38:01.738105 - Paying Attention
+2025-08-01 16:38:01.797419 - Not Paying Attention
+2025-08-01 16:38:01.843689 - Not Paying Attention
+2025-08-01 16:38:01.917275 - Paying Attention
+2025-08-01 16:38:01.974996 - Paying Attention
+2025-08-01 16:38:02.030513 - Paying Attention
+2025-08-01 16:38:02.084176 - Paying Attention
+2025-08-01 16:38:02.142086 - Paying Attention
+2025-08-01 16:38:02.195117 - Paying Attention
+2025-08-01 16:38:02.270617 - Paying Attention
+2025-08-01 16:38:02.347804 - Paying Attention
+2025-08-01 16:38:02.408433 - Paying Attention
+2025-08-01 16:38:02.466530 - Paying Attention
+2025-08-01 16:38:02.515652 - Paying Attention
+2025-08-01 16:38:02.581314 - Paying Attention
+2025-08-01 16:38:02.648425 - Paying Attention
+2025-08-01 16:38:02.703003 - Paying Attention
+2025-08-01 16:38:02.752984 - Not Paying Attention
+2025-08-01 16:38:02.839576 - Paying Attention
+2025-08-01 16:38:02.915656 - Paying Attention
+2025-08-01 16:38:02.968425 - Paying Attention
+2025-08-01 16:38:03.039804 - Paying Attention
+2025-08-01 16:38:03.098175 - Paying Attention
+2025-08-01 16:38:03.156018 - Paying Attention
+2025-08-01 16:38:03.222607 - Paying Attention
+2025-08-01 16:38:03.281382 - Paying Attention
+2025-08-01 16:38:03.333401 - Paying Attention
+2025-08-01 16:38:03.394124 - Paying Attention
+2025-08-01 16:38:03.454680 - Paying Attention
+2025-08-01 16:38:03.506181 - Paying Attention
+2025-08-01 16:38:03.561675 - Paying Attention
+2025-08-01 16:38:03.601894 - Not Paying Attention
+2025-08-01 16:38:03.659030 - Not Paying Attention
+2025-08-01 16:38:03.707398 - Not Paying Attention
+2025-08-01 16:38:03.752182 - Not Paying Attention
+2025-08-01 16:38:03.797458 - Not Paying Attention
+2025-08-01 16:38:03.846509 - Not Paying Attention
+2025-08-01 16:38:03.891309 - Not Paying Attention
+2025-08-01 16:38:03.934755 - Not Paying Attention
+2025-08-01 16:38:04.009973 - Paying Attention
+2025-08-01 16:38:04.071064 - Paying Attention
+2025-08-01 16:38:04.125570 - Paying Attention
+2025-08-01 16:38:04.182521 - Paying Attention
+2025-08-01 16:38:04.231848 - Not Paying Attention
+2025-08-01 16:38:04.290982 - Paying Attention
+2025-08-01 16:38:04.349335 - Paying Attention
+2025-08-01 16:38:04.396160 - Paying Attention
+2025-08-01 16:38:04.441732 - Paying Attention
+2025-08-01 16:38:04.504121 - Paying Attention
+2025-08-01 16:38:04.557554 - Paying Attention
+2025-08-01 16:38:04.621422 - Paying Attention
+2025-08-01 16:38:04.683796 - Paying Attention
+2025-08-01 16:38:04.744991 - Paying Attention
+2025-08-01 16:38:04.806272 - Paying Attention
+2025-08-01 16:38:04.870866 - Paying Attention
+2025-08-01 16:38:04.934851 - Paying Attention
+2025-08-01 16:38:04.995480 - Paying Attention
+2025-08-01 16:38:05.054771 - Paying Attention
+2025-08-01 16:38:05.120146 - Paying Attention
+2025-08-01 16:38:05.180672 - Paying Attention
+2025-08-01 16:38:05.238448 - Paying Attention
+2025-08-01 16:38:05.305605 - Paying Attention
+2025-08-01 16:38:05.362876 - Paying Attention
+2025-08-01 16:38:05.426099 - Paying Attention
+2025-08-01 16:38:05.489920 - Paying Attention
+2025-08-01 16:38:05.547738 - Paying Attention
+2025-08-01 16:38:05.613994 - Paying Attention
+2025-08-01 16:38:05.671938 - Paying Attention
+2025-08-01 16:38:05.737398 - Paying Attention
+2025-08-01 16:38:05.797834 - Paying Attention
+2025-08-01 16:38:05.862411 - Paying Attention
+2025-08-01 16:38:05.927300 - Paying Attention
+2025-08-01 16:38:05.987669 - Paying Attention
+2025-08-01 16:38:06.054722 - Paying Attention
+2025-08-01 16:38:06.105046 - Paying Attention
+2025-08-01 16:38:06.167545 - Paying Attention
+2025-08-01 16:38:06.229846 - Paying Attention
+2025-08-01 16:38:06.293779 - Paying Attention
+2025-08-01 16:38:06.355243 - Paying Attention
+2025-08-01 16:38:06.420680 - Paying Attention
+2025-08-01 16:38:06.483609 - Paying Attention
+2025-08-01 16:38:06.544403 - Paying Attention
+2025-08-01 16:38:06.601810 - Paying Attention
+2025-08-01 16:38:06.650942 - Paying Attention
+2025-08-01 16:38:06.701263 - Paying Attention
+2025-08-01 16:38:06.762860 - Paying Attention
+2025-08-01 16:38:06.826802 - Paying Attention
+2025-08-01 16:38:06.882017 - Paying Attention
+2025-08-01 16:38:06.947623 - Paying Attention
+2025-08-01 16:38:07.007146 - Paying Attention
+2025-08-01 16:38:07.058530 - Paying Attention
+2025-08-01 16:38:07.123589 - Paying Attention
+2025-08-01 16:38:07.186589 - Paying Attention
+2025-08-01 16:38:07.248202 - Paying Attention
+2025-08-01 16:38:07.307729 - Paying Attention
+2025-08-01 16:38:07.370880 - Paying Attention
+2025-08-01 16:38:07.443260 - Paying Attention
+2025-08-01 16:38:07.499642 - Paying Attention
+2025-08-01 16:38:07.556661 - Paying Attention
+2025-08-01 16:38:07.618501 - Paying Attention
+2025-08-01 16:38:07.691832 - Paying Attention
+2025-08-01 16:38:07.750948 - Paying Attention
+2025-08-01 16:38:07.809111 - Paying Attention
+2025-08-01 16:38:07.868644 - Paying Attention
+2025-08-01 16:38:07.933408 - Paying Attention
+2025-08-01 16:38:07.992441 - Paying Attention
+2025-08-01 16:38:08.054992 - Paying Attention
+2025-08-01 16:38:08.118582 - Paying Attention
+2025-08-01 16:38:08.180090 - Paying Attention
+2025-08-01 16:38:08.244176 - Paying Attention
+2025-08-01 16:38:08.304205 - Paying Attention
+2025-08-01 16:38:08.363788 - Paying Attention
+2025-08-01 16:38:08.413428 - Paying Attention
+2025-08-01 16:38:08.478632 - Paying Attention
+2025-08-01 16:38:08.539963 - Paying Attention
+2025-08-01 16:38:08.606221 - Paying Attention
+2025-08-01 16:38:08.664381 - Paying Attention
+2025-08-01 16:38:08.727482 - Paying Attention
+2025-08-01 16:38:08.788662 - Paying Attention
+2025-08-01 16:38:08.849936 - Paying Attention
+2025-08-01 16:38:08.913931 - Paying Attention
+2025-08-01 16:38:08.972410 - Paying Attention
+2025-08-01 16:38:09.037914 - Paying Attention
+2025-08-01 16:38:09.102395 - Paying Attention
+2025-08-01 16:38:09.161536 - Paying Attention
+2025-08-01 16:38:09.219062 - Paying Attention
+2025-08-01 16:38:09.284147 - Paying Attention
+2025-08-01 16:38:09.343216 - Paying Attention
+2025-08-01 16:38:09.406078 - Paying Attention
+2025-08-01 16:38:09.469765 - Paying Attention
+2025-08-01 16:38:09.528497 - Paying Attention
+2025-08-01 16:38:09.581134 - Paying Attention
+2025-08-01 16:38:09.661237 - Paying Attention
+2025-08-01 16:38:09.721347 - Paying Attention
+2025-08-01 16:38:09.787594 - Paying Attention
+2025-08-01 16:38:09.847391 - Paying Attention
+2025-08-01 16:38:09.904815 - Paying Attention
+2025-08-01 16:38:09.965582 - Paying Attention
+2025-08-01 16:38:10.027985 - Paying Attention
+2025-08-01 16:38:10.091587 - Paying Attention
+2025-08-01 16:38:10.150499 - Paying Attention
+2025-08-01 16:38:10.216735 - Paying Attention
+2025-08-01 16:38:10.283296 - Paying Attention
+2025-08-01 16:38:10.338049 - Paying Attention
+2025-08-01 16:38:10.434476 - Paying Attention
+2025-08-01 16:38:10.499566 - Paying Attention
+2025-08-01 16:38:10.573074 - Paying Attention
+2025-08-01 16:38:10.635601 - Paying Attention
+2025-08-01 16:38:10.695804 - Paying Attention
+2025-08-01 16:38:10.745928 - Paying Attention
+2025-08-01 16:38:10.820838 - Paying Attention
+2025-08-01 16:38:10.882664 - Paying Attention
+2025-08-01 16:38:10.931728 - Paying Attention
+2025-08-01 16:38:10.995401 - Paying Attention
+2025-08-01 16:38:11.059144 - Paying Attention
+2025-08-01 16:38:11.115066 - Paying Attention
+2025-08-01 16:38:11.161514 - Paying Attention
+2025-08-01 16:38:11.208582 - Paying Attention
+2025-08-01 16:38:11.272984 - Paying Attention
+2025-08-01 16:38:11.335855 - Paying Attention
+2025-08-01 16:38:11.401822 - Paying Attention
+2025-08-01 16:38:11.455921 - Paying Attention
+2025-08-01 16:38:11.506269 - Paying Attention
+2025-08-01 16:38:11.565263 - Paying Attention
+2025-08-01 16:38:11.614713 - Paying Attention
+2025-08-01 16:38:11.676759 - Paying Attention
+2025-08-01 16:38:11.741531 - Paying Attention
+2025-08-01 16:38:11.798646 - Paying Attention
+2025-08-01 16:38:11.848158 - Paying Attention
+2025-08-01 16:38:11.905762 - Paying Attention
+2025-08-01 16:38:11.951761 - Paying Attention
+2025-08-01 16:38:12.020746 - Paying Attention
+2025-08-01 16:38:12.078816 - Paying Attention
+2025-08-01 16:38:12.130870 - Paying Attention
+2025-08-01 16:38:12.189004 - Paying Attention
+2025-08-01 16:38:12.245155 - Paying Attention
+2025-08-01 16:38:12.298586 - Paying Attention
+2025-08-01 16:38:12.365219 - Paying Attention
+2025-08-01 16:38:12.422813 - Paying Attention
+2025-08-01 16:38:12.468366 - Paying Attention
+2025-08-01 16:38:12.511575 - Paying Attention
+2025-08-01 16:38:12.554570 - Paying Attention
+2025-08-01 16:38:12.599480 - Paying Attention
+2025-08-01 16:38:12.644775 - Paying Attention
+2025-08-01 16:38:12.687094 - Paying Attention
+2025-08-01 16:38:12.737426 - Paying Attention
+2025-08-01 16:38:12.786000 - Paying Attention
+2025-08-01 16:38:12.835478 - Paying Attention
+2025-08-01 16:38:12.882505 - Paying Attention
+2025-08-01 16:38:12.929006 - Paying Attention
+2025-08-01 16:38:12.977376 - Paying Attention
+2025-08-01 16:38:13.020412 - Paying Attention
+2025-08-01 16:38:13.063284 - Paying Attention
+2025-08-01 16:38:13.140279 - Paying Attention
+2025-08-01 16:38:13.189803 - Paying Attention
+2025-08-01 16:38:13.236466 - Paying Attention
+2025-08-01 16:38:13.281751 - Paying Attention
+2025-08-01 16:38:13.324704 - Paying Attention
+2025-08-01 16:38:13.365622 - Paying Attention
+2025-08-01 16:38:13.409640 - Paying Attention
+2025-08-01 16:38:13.469522 - Paying Attention
+2025-08-01 16:38:13.515131 - Paying Attention
+2025-08-01 16:38:13.564208 - Paying Attention
+2025-08-01 16:38:13.604708 - Paying Attention
+2025-08-01 16:38:13.650273 - Paying Attention
+2025-08-01 16:38:13.691859 - Paying Attention
+2025-08-01 16:38:13.733415 - Paying Attention
+2025-08-01 16:38:13.793234 - Paying Attention
+2025-08-01 16:38:13.837246 - Paying Attention
+2025-08-01 16:38:13.878532 - Paying Attention
+2025-08-01 16:38:13.922342 - Paying Attention
+2025-08-01 16:38:13.963973 - Paying Attention
+2025-08-01 16:38:14.006204 - Paying Attention
+2025-08-01 16:38:14.053813 - Paying Attention
+2025-08-01 16:38:14.093878 - Paying Attention
+2025-08-01 16:38:14.132891 - Paying Attention
+2025-08-01 16:38:14.191200 - Paying Attention
+2025-08-01 16:38:14.230747 - Paying Attention
+2025-08-01 16:38:14.271776 - Paying Attention
+2025-08-01 16:38:14.313308 - Paying Attention
+2025-08-01 16:38:14.354809 - Paying Attention
+2025-08-01 16:38:14.395283 - Paying Attention
+2025-08-01 16:38:14.435165 - Paying Attention
+2025-08-01 16:38:14.473577 - Paying Attention
+2025-08-01 16:38:14.512788 - Paying Attention
+2025-08-01 16:38:14.556094 - Paying Attention
+2025-08-01 16:38:14.597325 - Paying Attention
+2025-08-01 16:38:14.665133 - Paying Attention
+2025-08-01 16:38:14.707183 - Paying Attention
+2025-08-01 16:38:14.751704 - Paying Attention
+2025-08-01 16:38:14.798085 - Paying Attention
+2025-08-01 16:38:14.838563 - Paying Attention
+2025-08-01 16:38:14.878077 - Paying Attention
+2025-08-01 16:38:14.919650 - Paying Attention
+2025-08-01 16:38:14.958165 - Paying Attention
+2025-08-01 16:38:15.000580 - Paying Attention
+2025-08-01 16:38:15.061532 - Paying Attention
+2025-08-01 16:38:15.107603 - Paying Attention
+2025-08-01 16:38:15.147504 - Paying Attention
+2025-08-01 16:38:15.190260 - Paying Attention
+2025-08-01 16:38:15.232663 - Paying Attention
+2025-08-01 16:38:15.274969 - Paying Attention
+2025-08-01 16:38:15.324067 - Paying Attention
+2025-08-01 16:38:15.368066 - Paying Attention
+2025-08-01 16:38:15.413501 - Paying Attention
+2025-08-01 16:38:15.465591 - Paying Attention
+2025-08-01 16:38:15.509415 - Paying Attention
+2025-08-01 16:38:15.550187 - Paying Attention
+2025-08-01 16:38:15.598517 - Paying Attention
+2025-08-01 16:38:15.640915 - Paying Attention
+2025-08-01 16:38:15.680912 - Paying Attention
+2025-08-01 16:38:15.723809 - Paying Attention
+2025-08-01 16:38:15.764938 - Paying Attention
+2025-08-01 16:38:15.804939 - Paying Attention
+2025-08-01 16:38:15.859048 - Paying Attention
+2025-08-01 16:38:15.902533 - Paying Attention
+2025-08-01 16:38:15.944011 - Paying Attention
+2025-08-01 16:38:15.988375 - Paying Attention
+2025-08-01 16:38:16.031701 - Paying Attention
+2025-08-01 16:38:16.071433 - Paying Attention
+2025-08-01 16:38:16.112675 - Paying Attention
+2025-08-01 16:38:16.152771 - Paying Attention
+2025-08-01 16:38:16.191850 - Paying Attention
+2025-08-01 16:38:16.235912 - Paying Attention
+2025-08-01 16:38:16.277572 - Paying Attention
+2025-08-01 16:38:16.317627 - Paying Attention
+2025-08-01 16:38:16.361306 - Paying Attention
+2025-08-01 16:38:16.404290 - Paying Attention
+2025-08-01 16:38:16.443892 - Paying Attention
+2025-08-01 16:38:16.488064 - Paying Attention
+2025-08-01 16:38:16.530753 - Paying Attention
+2025-08-01 16:38:16.574816 - Paying Attention
+2025-08-01 16:38:16.620054 - Paying Attention
+2025-08-01 16:38:16.658602 - Paying Attention
+2025-08-01 16:38:16.702237 - Paying Attention
+2025-08-01 16:38:16.746906 - Paying Attention
+2025-08-01 16:38:16.804707 - Paying Attention
+2025-08-01 16:38:16.842932 - Paying Attention
+2025-08-01 16:38:16.889106 - Paying Attention
+2025-08-01 16:38:16.928764 - Paying Attention
+2025-08-01 16:38:16.974535 - Paying Attention
+2025-08-01 16:38:17.012860 - Paying Attention
+2025-08-01 16:38:17.060234 - Paying Attention
+2025-08-01 16:38:17.103632 - Paying Attention
+2025-08-01 16:38:17.143621 - Paying Attention
+2025-08-01 16:38:17.198056 - Paying Attention
+2025-08-01 16:38:17.242292 - Paying Attention
+2025-08-01 16:38:17.286791 - Paying Attention
+2025-08-01 16:38:17.327851 - Paying Attention
+2025-08-01 16:38:17.371860 - Paying Attention
+2025-08-01 16:38:17.419149 - Paying Attention
+2025-08-01 16:38:17.462922 - Paying Attention
+2025-08-01 16:38:17.502556 - Paying Attention
+2025-08-01 16:38:17.547312 - Paying Attention
+2025-08-01 16:38:17.601570 - Paying Attention
+2025-08-01 16:38:17.640445 - Paying Attention
+2025-08-01 16:38:17.677176 - Paying Attention
+2025-08-01 16:38:17.818428 - Paying Attention
+2025-08-01 16:38:17.860976 - Paying Attention
+2025-08-01 16:38:17.901949 - Not Paying Attention
+2025-08-01 16:38:17.943546 - Not Paying Attention
+2025-08-01 16:38:17.985306 - Not Paying Attention
+2025-08-01 16:38:18.024084 - Not Paying Attention
+2025-08-01 16:38:18.072264 - Paying Attention
+2025-08-01 16:38:18.115747 - Not Paying Attention
+2025-08-01 16:38:18.145258 - Not Paying Attention
+2025-08-01 16:38:18.181070 - Not Paying Attention
+2025-08-01 16:38:18.210544 - Not Paying Attention
+2025-08-01 16:38:18.255610 - Paying Attention
+2025-08-01 16:38:18.294496 - Paying Attention
+2025-08-01 16:38:18.332753 - Paying Attention
+2025-08-01 16:38:18.373710 - Paying Attention
+2025-08-01 16:38:18.403123 - Not Paying Attention
+2025-08-01 16:38:18.431768 - Not Paying Attention
+2025-08-01 16:38:18.459908 - Not Paying Attention
+2025-08-01 16:38:18.489141 - Not Paying Attention
+2025-08-01 16:38:18.516220 - Not Paying Attention
+2025-08-01 16:38:18.545406 - Not Paying Attention
+2025-08-01 16:38:18.589280 - Paying Attention
+2025-08-01 16:38:18.628331 - Paying Attention
+2025-08-01 16:38:18.658357 - Not Paying Attention
+2025-08-01 16:38:18.690287 - Not Paying Attention
+2025-08-01 16:38:18.720920 - Not Paying Attention
+2025-08-01 16:38:18.763060 - Paying Attention
+2025-08-01 16:38:18.793118 - Not Paying Attention
+2025-08-01 16:38:18.825321 - Not Paying Attention
+2025-08-01 16:38:18.853494 - Not Paying Attention
+2025-08-01 16:38:18.885424 - Not Paying Attention
+2025-08-01 16:38:18.920961 - Not Paying Attention
+2025-08-01 16:38:18.949040 - Not Paying Attention
+2025-08-01 16:38:18.978456 - Not Paying Attention
+2025-08-01 16:38:19.007677 - Not Paying Attention
+2025-08-01 16:38:19.048189 - Not Paying Attention
+2025-08-01 16:38:19.078328 - Not Paying Attention
+2025-08-01 16:38:19.109707 - Not Paying Attention
+2025-08-01 16:38:19.138975 - Not Paying Attention
+2025-08-01 16:38:19.198891 - Paying Attention
+2025-08-01 16:38:19.237473 - Paying Attention
+2025-08-01 16:38:19.269132 - Not Paying Attention
+2025-08-01 16:38:19.300212 - Not Paying Attention
+2025-08-01 16:38:19.330536 - Not Paying Attention
+2025-08-01 16:38:19.361277 - Not Paying Attention
+2025-08-01 16:38:19.390277 - Not Paying Attention
+2025-08-01 16:38:19.422182 - Not Paying Attention
+2025-08-01 16:38:19.460083 - Paying Attention
+2025-08-01 16:38:19.497087 - Paying Attention
+2025-08-01 16:38:19.531866 - Paying Attention
+2025-08-01 16:38:19.562507 - Not Paying Attention
+2025-08-01 16:38:19.592564 - Not Paying Attention
+2025-08-01 16:38:19.625644 - Not Paying Attention
+2025-08-01 16:38:19.656477 - Not Paying Attention
+2025-08-01 16:38:19.687772 - Not Paying Attention
+2025-08-01 16:38:19.717290 - Not Paying Attention
+2025-08-01 16:38:19.746806 - Not Paying Attention
+2025-08-01 16:38:19.784303 - Not Paying Attention
+2025-08-01 16:38:19.813063 - Not Paying Attention
+2025-08-01 16:38:19.856146 - Paying Attention
+2025-08-01 16:38:19.893161 - Paying Attention
+2025-08-01 16:38:19.929322 - Paying Attention
+2025-08-01 16:38:19.959640 - Not Paying Attention
+2025-08-01 16:38:19.999571 - Paying Attention
+2025-08-01 16:38:20.039004 - Paying Attention
+2025-08-01 16:38:20.077988 - Paying Attention
+2025-08-01 16:38:20.118133 - Paying Attention
+2025-08-01 16:38:20.148491 - Not Paying Attention
+2025-08-01 16:38:20.179544 - Not Paying Attention
+2025-08-01 16:38:20.217890 - Paying Attention
+2025-08-01 16:38:20.255176 - Paying Attention
+2025-08-01 16:38:20.337911 - Paying Attention
+2025-08-01 16:38:20.398910 - Not Paying Attention
+2025-08-01 16:38:20.436123 - Not Paying Attention
+2025-08-01 16:38:20.476123 - Paying Attention
+2025-08-01 16:38:20.514597 - Paying Attention
+2025-08-01 16:38:20.556871 - Paying Attention
+2025-08-01 16:38:20.594426 - Paying Attention
+2025-08-01 16:38:20.633132 - Paying Attention
+2025-08-01 16:38:20.663064 - Not Paying Attention
+2025-08-01 16:38:20.733127 - Paying Attention
+2025-08-01 16:38:20.798702 - Paying Attention
+2025-08-01 16:38:20.835826 - Paying Attention
+2025-08-01 16:38:20.873287 - Paying Attention
+2025-08-01 16:38:20.910927 - Paying Attention
+2025-08-01 16:38:20.948779 - Paying Attention
+2025-08-01 16:38:20.986715 - Paying Attention
+2025-08-01 16:38:21.028517 - Paying Attention
+2025-08-01 16:38:21.067820 - Paying Attention
+2025-08-01 16:38:21.144194 - Paying Attention
+2025-08-01 16:38:21.206146 - Paying Attention
+2025-08-01 16:38:21.241496 - Paying Attention
+2025-08-01 16:38:21.269803 - Not Paying Attention
+2025-08-01 16:38:21.301772 - Not Paying Attention
+2025-08-01 16:38:21.330904 - Not Paying Attention
+2025-08-01 16:38:21.363313 - Not Paying Attention
+2025-08-01 16:38:21.392570 - Not Paying Attention
+2025-08-01 16:38:21.424934 - Not Paying Attention
+2025-08-01 16:38:21.455267 - Not Paying Attention
+2025-08-01 16:38:21.484777 - Not Paying Attention
+2025-08-01 16:38:21.515326 - Not Paying Attention
+2025-08-01 16:38:21.547897 - Not Paying Attention
+2025-08-01 16:38:21.600966 - Paying Attention
+2025-08-01 16:38:21.640013 - Paying Attention
+2025-08-01 16:38:21.680174 - Paying Attention
+2025-08-01 16:38:21.721663 - Paying Attention
+2025-08-01 16:38:21.764053 - Not Paying Attention
+2025-08-01 16:38:21.798007 - Not Paying Attention
+2025-08-01 16:38:21.832332 - Not Paying Attention
+2025-08-01 16:38:21.874370 - Paying Attention
+2025-08-01 16:38:21.934776 - Paying Attention
+2025-08-01 16:38:21.987085 - Not Paying Attention
+2025-08-01 16:38:22.018017 - Not Paying Attention
+2025-08-01 16:38:22.063116 - Paying Attention
+2025-08-01 16:38:22.103841 - Paying Attention
+2025-08-01 16:38:22.135397 - Not Paying Attention
+2025-08-01 16:38:22.164677 - Not Paying Attention
+2025-08-01 16:38:22.194981 - Not Paying Attention
+2025-08-01 16:38:22.227463 - Not Paying Attention
+2025-08-01 16:38:22.258213 - Not Paying Attention
+2025-08-01 16:38:22.288340 - Not Paying Attention
+2025-08-01 16:38:22.318762 - Not Paying Attention
+2025-08-01 16:38:22.348259 - Not Paying Attention
+2025-08-01 16:38:22.388833 - Not Paying Attention
+2025-08-01 16:38:22.417840 - Not Paying Attention
+2025-08-01 16:38:22.462752 - Paying Attention
+2025-08-01 16:38:22.501223 - Paying Attention
+2025-08-01 16:38:22.545898 - Paying Attention
+2025-08-01 16:38:22.586686 - Paying Attention
+2025-08-01 16:38:22.618760 - Not Paying Attention
+2025-08-01 16:38:22.649886 - Not Paying Attention
+2025-08-01 16:38:22.737752 - Paying Attention
+2025-08-01 16:38:22.792407 - Not Paying Attention
+2025-08-01 16:38:22.822544 - Not Paying Attention
+2025-08-01 16:38:22.853998 - Not Paying Attention
+2025-08-01 16:38:22.884315 - Not Paying Attention
+2025-08-01 16:38:22.929764 - Paying Attention
+2025-08-01 16:38:22.970792 - Paying Attention
+2025-08-01 16:38:23.001167 - Not Paying Attention
+2025-08-01 16:38:23.030409 - Not Paying Attention
+2025-08-01 16:38:23.068802 - Paying Attention
+2025-08-01 16:38:23.107801 - Paying Attention
+2025-08-01 16:38:23.143374 - Paying Attention
+2025-08-01 16:38:23.174206 - Not Paying Attention
+2025-08-01 16:38:23.215116 - Paying Attention
+2025-08-01 16:38:23.253559 - Paying Attention
+2025-08-01 16:38:23.293476 - Paying Attention
+2025-08-01 16:38:23.329071 - Paying Attention
+2025-08-01 16:38:23.359416 - Not Paying Attention
+2025-08-01 16:38:23.387703 - Not Paying Attention
+2025-08-01 16:38:23.428280 - Paying Attention
+2025-08-01 16:38:23.468434 - Paying Attention
+2025-08-01 16:38:23.538029 - Paying Attention
+2025-08-01 16:38:23.600074 - Paying Attention
+2025-08-01 16:38:23.638586 - Paying Attention
+2025-08-01 16:38:23.677821 - Not Paying Attention
+2025-08-01 16:38:23.716090 - Not Paying Attention
+2025-08-01 16:38:23.754205 - Paying Attention
+2025-08-01 16:38:23.793789 - Paying Attention
+2025-08-01 16:38:23.833140 - Paying Attention
+2025-08-01 16:38:23.874946 - Paying Attention
+2025-08-01 16:38:23.934780 - Paying Attention
+2025-08-01 16:38:23.991755 - Not Paying Attention
+2025-08-01 16:38:24.022892 - Not Paying Attention
+2025-08-01 16:38:24.069171 - Paying Attention
+2025-08-01 16:38:24.107814 - Paying Attention
+2025-08-01 16:38:24.146776 - Not Paying Attention
+2025-08-01 16:38:24.183154 - Not Paying Attention
+2025-08-01 16:38:24.220516 - Paying Attention
+2025-08-01 16:38:24.258049 - Not Paying Attention
+2025-08-01 16:38:24.337508 - Not Paying Attention
+2025-08-01 16:38:24.401508 - Paying Attention
+2025-08-01 16:38:24.443631 - Paying Attention
+2025-08-01 16:38:24.488631 - Paying Attention
+2025-08-01 16:38:24.529218 - Paying Attention
+2025-08-01 16:38:24.559219 - Not Paying Attention
+2025-08-01 16:38:24.588194 - Not Paying Attention
+2025-08-01 16:38:24.619533 - Not Paying Attention
+2025-08-01 16:38:24.647715 - Not Paying Attention
+2025-08-01 16:38:24.738329 - Paying Attention
+2025-08-01 16:38:24.796793 - Paying Attention
+2025-08-01 16:38:24.832917 - Paying Attention
+2025-08-01 16:38:24.860930 - Not Paying Attention
+2025-08-01 16:38:24.891577 - Not Paying Attention
+2025-08-01 16:38:24.920434 - Not Paying Attention
+2025-08-01 16:38:24.950208 - Not Paying Attention
+2025-08-01 16:38:24.980126 - Not Paying Attention
+2025-08-01 16:38:25.008149 - Not Paying Attention
+2025-08-01 16:38:25.044351 - Not Paying Attention
+2025-08-01 16:38:25.075681 - Not Paying Attention
+2025-08-01 16:38:25.105681 - Not Paying Attention
+2025-08-01 16:38:25.134222 - Not Paying Attention
+2025-08-01 16:38:25.194084 - Not Paying Attention
+2025-08-01 16:38:25.228670 - Not Paying Attention
+2025-08-01 16:38:25.258671 - Not Paying Attention
+2025-08-01 16:38:25.289671 - Not Paying Attention
+2025-08-01 16:38:25.319708 - Not Paying Attention
+2025-08-01 16:38:25.348432 - Not Paying Attention
+2025-08-01 16:38:25.381991 - Not Paying Attention
+2025-08-01 16:38:25.410045 - Not Paying Attention
+2025-08-01 16:38:25.451323 - Not Paying Attention
+2025-08-01 16:38:25.481364 - Not Paying Attention
+2025-08-01 16:38:25.511988 - Not Paying Attention
+2025-08-01 16:38:25.541214 - Not Paying Attention
+2025-08-01 16:38:25.591144 - Not Paying Attention
+2025-08-01 16:38:25.620159 - Not Paying Attention
+2025-08-01 16:38:25.654750 - Not Paying Attention
+2025-08-01 16:38:25.684078 - Not Paying Attention
+2025-08-01 16:38:25.718930 - Not Paying Attention
+2025-08-01 16:38:25.748554 - Not Paying Attention
+2025-08-01 16:38:25.780816 - Not Paying Attention
+2025-08-01 16:38:25.814961 - Not Paying Attention
+2025-08-01 16:38:25.849149 - Not Paying Attention
+2025-08-01 16:38:25.879387 - Not Paying Attention
+2025-08-01 16:38:25.908580 - Not Paying Attention
+2025-08-01 16:38:25.940782 - Not Paying Attention
+2025-08-01 16:38:25.993217 - Not Paying Attention
+2025-08-01 16:38:26.025546 - Not Paying Attention
+2025-08-01 16:38:26.057666 - Not Paying Attention
+2025-08-01 16:38:26.091923 - Not Paying Attention
+2025-08-01 16:38:26.121077 - Not Paying Attention
+2025-08-01 16:38:26.154148 - Not Paying Attention
+2025-08-01 16:38:26.183391 - Not Paying Attention
+2025-08-01 16:38:26.211815 - Not Paying Attention
+2025-08-01 16:38:26.246447 - Not Paying Attention
+2025-08-01 16:38:26.275544 - Not Paying Attention
+2025-08-01 16:38:26.309504 - Not Paying Attention
+2025-08-01 16:38:26.339988 - Not Paying Attention
+2025-08-01 16:38:26.391281 - Not Paying Attention
+2025-08-01 16:38:26.438129 - Not Paying Attention
+2025-08-01 16:38:26.472399 - Not Paying Attention
+2025-08-01 16:38:26.509901 - Not Paying Attention
+2025-08-01 16:38:26.553706 - Paying Attention
+2025-08-01 16:38:26.592053 - Paying Attention
+2025-08-01 16:38:26.623261 - Not Paying Attention
+2025-08-01 16:38:26.654153 - Not Paying Attention
+2025-08-01 16:38:26.724543 - Not Paying Attention
+2025-08-01 16:38:26.794941 - Paying Attention
+2025-08-01 16:38:26.832468 - Paying Attention
+2025-08-01 16:38:26.861769 - Not Paying Attention
+2025-08-01 16:38:26.892122 - Not Paying Attention
+2025-08-01 16:38:26.940316 - Paying Attention
+2025-08-01 16:38:26.990023 - Paying Attention
+2025-08-01 16:38:27.032584 - Paying Attention
+2025-08-01 16:38:27.072803 - Paying Attention
+2025-08-01 16:38:27.136347 - Paying Attention
+2025-08-01 16:38:27.191243 - Not Paying Attention
+2025-08-01 16:38:27.225668 - Not Paying Attention
+2025-08-01 16:38:27.271218 - Paying Attention
+2025-08-01 16:38:27.310696 - Paying Attention
+2025-08-01 16:38:27.341469 - Not Paying Attention
+2025-08-01 16:38:27.373885 - Not Paying Attention
+2025-08-01 16:38:27.414523 - Paying Attention
+2025-08-01 16:38:27.452620 - Paying Attention
+2025-08-01 16:38:27.489329 - Paying Attention
+2025-08-01 16:38:27.528355 - Paying Attention
+2025-08-01 16:38:27.569716 - Paying Attention
+2025-08-01 16:38:27.599226 - Not Paying Attention
+2025-08-01 16:38:27.639118 - Paying Attention
+2025-08-01 16:38:27.673349 - Paying Attention
+2025-08-01 16:38:27.705896 - Not Paying Attention
+2025-08-01 16:38:27.734695 - Not Paying Attention
+2025-08-01 16:38:27.769062 - Not Paying Attention
+2025-08-01 16:38:27.807878 - Not Paying Attention
+2025-08-01 16:38:27.842410 - Not Paying Attention
+2025-08-01 16:38:27.872998 - Not Paying Attention
+2025-08-01 16:38:27.927181 - Not Paying Attention
+2025-08-01 16:38:27.993639 - Not Paying Attention
+2025-08-01 16:38:28.028594 - Not Paying Attention
+2025-08-01 16:38:28.060075 - Not Paying Attention
+2025-08-01 16:38:28.091377 - Not Paying Attention
+2025-08-01 16:38:28.132359 - Paying Attention
+2025-08-01 16:38:28.168831 - Paying Attention
+2025-08-01 16:38:28.198901 - Not Paying Attention
+2025-08-01 16:38:28.231816 - Not Paying Attention
+2025-08-01 16:38:28.260936 - Not Paying Attention
+2025-08-01 16:38:28.290910 - Not Paying Attention
+2025-08-01 16:38:28.320371 - Not Paying Attention
+2025-08-01 16:38:28.352511 - Not Paying Attention
+2025-08-01 16:38:28.388846 - Not Paying Attention
+2025-08-01 16:38:28.418157 - Not Paying Attention
+2025-08-01 16:38:28.456834 - Not Paying Attention
+2025-08-01 16:38:28.486830 - Not Paying Attention
+2025-08-01 16:38:28.519077 - Not Paying Attention
+2025-08-01 16:38:28.549809 - Not Paying Attention
+2025-08-01 16:38:28.580301 - Not Paying Attention
+2025-08-01 16:38:28.613842 - Not Paying Attention
+2025-08-01 16:38:28.649202 - Not Paying Attention
+2025-08-01 16:38:28.680328 - Not Paying Attention
+2025-08-01 16:38:28.710961 - Not Paying Attention
+2025-08-01 16:38:28.742040 - Not Paying Attention
+2025-08-01 16:38:28.788530 - Not Paying Attention
+2025-08-01 16:38:28.817456 - Not Paying Attention
+2025-08-01 16:38:28.853560 - Not Paying Attention
+2025-08-01 16:38:28.887094 - Not Paying Attention
+2025-08-01 16:38:28.918521 - Not Paying Attention
+2025-08-01 16:38:28.950479 - Not Paying Attention
+2025-08-01 16:38:28.983515 - Not Paying Attention
+2025-08-01 16:38:29.012878 - Not Paying Attention
+2025-08-01 16:38:29.045781 - Not Paying Attention
+2025-08-01 16:38:29.076698 - Not Paying Attention
+2025-08-01 16:38:29.106020 - Not Paying Attention
+2025-08-01 16:38:29.136588 - Not Paying Attention
+2025-08-01 16:38:29.189798 - Not Paying Attention
+2025-08-01 16:38:29.218162 - Not Paying Attention
+2025-08-01 16:38:29.255745 - Not Paying Attention
+2025-08-01 16:38:29.285758 - Not Paying Attention
+2025-08-01 16:38:29.321755 - Not Paying Attention
+2025-08-01 16:38:29.351497 - Not Paying Attention
+2025-08-01 16:38:29.383061 - Not Paying Attention
+2025-08-01 16:38:29.411577 - Not Paying Attention
+2025-08-01 16:38:29.447479 - Not Paying Attention
+2025-08-01 16:38:29.479767 - Not Paying Attention
+2025-08-01 16:38:29.511978 - Not Paying Attention
+2025-08-01 16:38:29.540195 - Not Paying Attention
+2025-08-01 16:38:29.593692 - Not Paying Attention
+2025-08-01 16:38:29.629728 - Not Paying Attention
+2025-08-01 16:38:29.664304 - Not Paying Attention
+2025-08-01 16:38:29.699303 - Not Paying Attention
+2025-08-01 16:38:29.730340 - Not Paying Attention
+2025-08-01 16:38:29.760659 - Not Paying Attention
+2025-08-01 16:38:29.789658 - Not Paying Attention
+2025-08-01 16:38:29.818743 - Not Paying Attention
+2025-08-01 16:38:29.847799 - Not Paying Attention
+2025-08-01 16:38:29.877310 - Not Paying Attention
+2025-08-01 16:38:29.908420 - Not Paying Attention
+2025-08-01 16:38:29.939626 - Not Paying Attention
+2025-08-01 16:38:29.986972 - Not Paying Attention
+2025-08-01 16:38:30.019299 - Not Paying Attention
+2025-08-01 16:38:30.053627 - Not Paying Attention
+2025-08-01 16:38:30.084473 - Not Paying Attention
+2025-08-01 16:38:30.120200 - Not Paying Attention
+2025-08-01 16:38:30.150595 - Not Paying Attention
+2025-08-01 16:38:30.180361 - Not Paying Attention
+2025-08-01 16:38:30.212372 - Not Paying Attention
+2025-08-01 16:38:30.243996 - Not Paying Attention
+2025-08-01 16:38:30.277060 - Not Paying Attention
+2025-08-01 16:38:30.306061 - Not Paying Attention
+2025-08-01 16:38:30.341780 - Paying Attention
+2025-08-01 16:38:30.391318 - Not Paying Attention
+2025-08-01 16:38:30.419557 - Not Paying Attention
+2025-08-01 16:38:30.454142 - Not Paying Attention
+2025-08-01 16:38:30.484155 - Not Paying Attention
+2025-08-01 16:38:30.529167 - Not Paying Attention
+2025-08-01 16:38:30.559683 - Not Paying Attention
+2025-08-01 16:38:30.596000 - Paying Attention
+2025-08-01 16:38:30.633963 - Paying Attention
+2025-08-01 16:38:30.671154 - Paying Attention
+2025-08-01 16:38:30.707060 - Paying Attention
+2025-08-01 16:38:30.746727 - Paying Attention
+2025-08-01 16:38:30.787222 - Paying Attention
+2025-08-01 16:38:30.827397 - Paying Attention
+2025-08-01 16:38:30.861846 - Paying Attention
+2025-08-01 16:38:30.903444 - Paying Attention
+2025-08-01 16:38:30.940671 - Paying Attention
+2025-08-01 16:38:30.972110 - Not Paying Attention
+2025-08-01 16:38:31.002147 - Not Paying Attention
+2025-08-01 16:38:31.035785 - Not Paying Attention
+2025-08-01 16:38:31.078161 - Paying Attention
+2025-08-01 16:38:31.136621 - Paying Attention
+2025-08-01 16:38:31.191621 - Not Paying Attention
+2025-08-01 16:38:31.223677 - Not Paying Attention
+2025-08-01 16:38:31.262209 - Paying Attention
+2025-08-01 16:38:31.300209 - Paying Attention
+2025-08-01 16:38:31.335668 - Paying Attention
+2025-08-01 16:38:31.376245 - Paying Attention
+2025-08-01 16:38:31.414115 - Paying Attention
+2025-08-01 16:38:31.451142 - Paying Attention
+2025-08-01 16:38:31.483357 - Not Paying Attention
+2025-08-01 16:38:31.512557 - Not Paying Attention
+2025-08-01 16:38:31.543744 - Not Paying Attention
+2025-08-01 16:38:31.578290 - Not Paying Attention
+2025-08-01 16:38:31.620097 - Paying Attention
+2025-08-01 16:38:31.659868 - Paying Attention
+2025-08-01 16:38:31.695139 - Paying Attention
+2025-08-01 16:38:31.734513 - Paying Attention
+2025-08-01 16:38:31.770688 - Not Paying Attention
+2025-08-01 16:38:31.808544 - Not Paying Attention
+2025-08-01 16:38:31.854931 - Paying Attention
+2025-08-01 16:38:31.890027 - Not Paying Attention
+2025-08-01 16:38:31.934735 - Paying Attention
+2025-08-01 16:38:31.992197 - Not Paying Attention
+2025-08-01 16:38:32.031233 - Not Paying Attention
+2025-08-01 16:38:32.076807 - Paying Attention
+2025-08-01 16:38:32.119811 - Paying Attention
+2025-08-01 16:38:32.163788 - Paying Attention
+2025-08-01 16:38:32.201420 - Paying Attention
+2025-08-01 16:38:32.231231 - Not Paying Attention
+2025-08-01 16:38:32.260693 - Not Paying Attention
+2025-08-01 16:38:32.325527 - Not Paying Attention
+2025-08-01 16:38:32.391232 - Not Paying Attention
+2025-08-01 16:38:32.425059 - Not Paying Attention
+2025-08-01 16:38:32.453641 - Not Paying Attention
+2025-08-01 16:38:32.483296 - Not Paying Attention
+2025-08-01 16:38:32.515354 - Not Paying Attention
+2025-08-01 16:38:32.545785 - Not Paying Attention
+2025-08-01 16:38:32.580808 - Not Paying Attention
+2025-08-01 16:38:32.611831 - Not Paying Attention
+2025-08-01 16:38:32.645133 - Not Paying Attention
+2025-08-01 16:38:32.676286 - Not Paying Attention
+2025-08-01 16:38:32.707423 - Not Paying Attention
+2025-08-01 16:38:32.737990 - Not Paying Attention
+2025-08-01 16:38:32.788396 - Not Paying Attention
+2025-08-01 16:38:32.816412 - Not Paying Attention
+2025-08-01 16:38:32.858070 - Not Paying Attention
+2025-08-01 16:38:32.889797 - Not Paying Attention
+2025-08-01 16:38:32.920595 - Not Paying Attention
+2025-08-01 16:38:32.951294 - Not Paying Attention
+2025-08-01 16:38:32.981192 - Not Paying Attention
+2025-08-01 16:38:33.009207 - Not Paying Attention
+2025-08-01 16:38:33.049158 - Not Paying Attention
+2025-08-01 16:38:33.079417 - Not Paying Attention
+2025-08-01 16:38:33.110693 - Not Paying Attention
+2025-08-01 16:38:33.138342 - Not Paying Attention
+2025-08-01 16:38:33.189776 - Not Paying Attention
+2025-08-01 16:38:33.218767 - Not Paying Attention
+2025-08-01 16:38:33.252514 - Not Paying Attention
+2025-08-01 16:38:33.285426 - Not Paying Attention
+2025-08-01 16:38:33.321477 - Not Paying Attention
+2025-08-01 16:38:33.349814 - Not Paying Attention
+2025-08-01 16:38:33.379370 - Not Paying Attention
+2025-08-01 16:38:33.410298 - Not Paying Attention
+2025-08-01 16:38:33.447271 - Not Paying Attention
+2025-08-01 16:38:33.479638 - Not Paying Attention
+2025-08-01 16:38:33.513898 - Not Paying Attention
+2025-08-01 16:38:33.544126 - Not Paying Attention
+2025-08-01 16:38:33.591599 - Not Paying Attention
+2025-08-01 16:38:33.623308 - Not Paying Attention
+2025-08-01 16:38:33.664397 - Paying Attention
+2025-08-01 16:38:33.700004 - Paying Attention
+2025-08-01 16:38:33.729106 - Not Paying Attention
+2025-08-01 16:38:33.764114 - Not Paying Attention
+2025-08-01 16:38:33.794155 - Not Paying Attention
+2025-08-01 16:38:33.825292 - Not Paying Attention
+2025-08-01 16:38:33.863647 - Paying Attention
+2025-08-01 16:38:33.901242 - Paying Attention
+2025-08-01 16:38:33.958239 - Paying Attention
+2025-08-01 16:38:34.005239 - Paying Attention
+2025-08-01 16:38:34.042344 - Paying Attention
+2025-08-01 16:38:34.079344 - Paying Attention
+2025-08-01 16:38:34.111344 - Not Paying Attention
+2025-08-01 16:38:34.142050 - Not Paying Attention
+2025-08-01 16:38:34.173767 - Not Paying Attention
+2025-08-01 16:38:34.202676 - Not Paying Attention
+2025-08-01 16:38:34.233380 - Not Paying Attention
+2025-08-01 16:38:34.263932 - Not Paying Attention
+2025-08-01 16:38:34.304361 - Paying Attention
+2025-08-01 16:38:34.340728 - Paying Attention
+2025-08-01 16:38:34.377779 - Paying Attention
+2025-08-01 16:38:34.409089 - Not Paying Attention
+2025-08-01 16:38:34.445213 - Not Paying Attention
+2025-08-01 16:38:34.476293 - Not Paying Attention
+2025-08-01 16:38:34.517735 - Not Paying Attention
+2025-08-01 16:38:34.556375 - Not Paying Attention
+2025-08-01 16:38:34.594128 - Paying Attention
+2025-08-01 16:38:34.664702 - Not Paying Attention
+2025-08-01 16:38:34.704702 - Not Paying Attention
+2025-08-01 16:38:34.738738 - Not Paying Attention
+2025-08-01 16:38:34.780291 - Paying Attention
+2025-08-01 16:38:34.819488 - Paying Attention
+2025-08-01 16:38:34.855261 - Paying Attention
+2025-08-01 16:38:34.893963 - Not Paying Attention
+2025-08-01 16:38:34.932833 - Not Paying Attention
+2025-08-01 16:38:34.964360 - Not Paying Attention
+2025-08-01 16:38:34.992545 - Not Paying Attention
+2025-08-01 16:38:35.030088 - Paying Attention
+2025-08-01 16:38:35.067188 - Paying Attention
+2025-08-01 16:38:35.097482 - Not Paying Attention
+2025-08-01 16:38:35.128630 - Not Paying Attention
+2025-08-01 16:38:35.158001 - Not Paying Attention
+2025-08-01 16:38:35.188963 - Not Paying Attention
+2025-08-01 16:38:35.219379 - Not Paying Attention
+2025-08-01 16:38:35.250931 - Not Paying Attention
+2025-08-01 16:38:35.290756 - Paying Attention
+2025-08-01 16:38:35.326164 - Paying Attention
+2025-08-01 16:38:35.367903 - Paying Attention
+2025-08-01 16:38:35.405200 - Paying Attention
+2025-08-01 16:38:35.444161 - Paying Attention
+2025-08-01 16:38:35.481561 - Paying Attention
+2025-08-01 16:38:35.530935 - Not Paying Attention
+2025-08-01 16:38:35.601277 - Paying Attention
+2025-08-01 16:38:35.638723 - Paying Attention
+2025-08-01 16:38:35.678380 - Paying Attention
+2025-08-01 16:38:35.717324 - Paying Attention
+2025-08-01 16:38:35.746508 - Not Paying Attention
+2025-08-01 16:38:35.778018 - Not Paying Attention
+2025-08-01 16:38:35.818648 - Paying Attention
+2025-08-01 16:38:35.861645 - Paying Attention
+2025-08-01 16:38:35.892336 - Not Paying Attention
+2025-08-01 16:38:35.925965 - Not Paying Attention
+2025-08-01 16:38:35.973798 - Not Paying Attention
+2025-08-01 16:38:36.002836 - Not Paying Attention
+2025-08-01 16:38:36.041019 - Not Paying Attention
+2025-08-01 16:38:36.076630 - Not Paying Attention
+2025-08-01 16:38:36.110551 - Not Paying Attention
+2025-08-01 16:38:36.144625 - Not Paying Attention
+2025-08-01 16:38:36.177045 - Not Paying Attention
+2025-08-01 16:38:36.208553 - Not Paying Attention
+2025-08-01 16:38:36.250562 - Paying Attention
+2025-08-01 16:38:36.280007 - Not Paying Attention
+2025-08-01 16:38:36.334025 - Paying Attention
+2025-08-01 16:38:36.390999 - Not Paying Attention
+2025-08-01 16:38:36.420583 - Not Paying Attention
+2025-08-01 16:38:36.454673 - Not Paying Attention
+2025-08-01 16:38:36.485672 - Not Paying Attention
+2025-08-01 16:38:36.517779 - Not Paying Attention
+2025-08-01 16:38:36.546880 - Not Paying Attention
+2025-08-01 16:38:36.582202 - Not Paying Attention
+2025-08-01 16:38:36.614249 - Not Paying Attention
+2025-08-01 16:38:36.660728 - Not Paying Attention
+2025-08-01 16:38:36.690067 - Not Paying Attention
+2025-08-01 16:38:36.721459 - Not Paying Attention
+2025-08-01 16:38:36.751512 - Not Paying Attention
+2025-08-01 16:38:36.802225 - Paying Attention
+2025-08-01 16:38:36.836624 - Paying Attention
+2025-08-01 16:38:36.867442 - Not Paying Attention
+2025-08-01 16:38:36.899450 - Not Paying Attention
+2025-08-01 16:38:36.930078 - Not Paying Attention
+2025-08-01 16:38:36.960483 - Not Paying Attention
+2025-08-01 16:38:36.999735 - Paying Attention
+2025-08-01 16:38:37.036790 - Paying Attention
+2025-08-01 16:38:37.074309 - Paying Attention
+2025-08-01 16:38:37.115309 - Paying Attention
+2025-08-01 16:38:37.153267 - Paying Attention
+2025-08-01 16:38:37.192921 - Not Paying Attention
+2025-08-01 16:38:37.223178 - Not Paying Attention
+2025-08-01 16:38:37.250380 - Not Paying Attention
+2025-08-01 16:38:37.288238 - Paying Attention
+2025-08-01 16:38:37.333474 - Paying Attention
+2025-08-01 16:38:37.373048 - Paying Attention
+2025-08-01 16:38:37.407086 - Paying Attention
+2025-08-01 16:38:37.471171 - Not Paying Attention
+2025-08-01 16:38:37.510874 - Not Paying Attention
+2025-08-01 16:38:37.553468 - Paying Attention
+2025-08-01 16:38:37.589772 - Not Paying Attention
+2025-08-01 16:38:37.622479 - Not Paying Attention
+2025-08-01 16:38:37.653050 - Not Paying Attention
+2025-08-01 16:38:37.684051 - Not Paying Attention
+2025-08-01 16:38:37.717439 - Not Paying Attention
+2025-08-01 16:38:37.747534 - Not Paying Attention
+2025-08-01 16:38:37.793435 - Paying Attention
+2025-08-01 16:38:37.830899 - Paying Attention
+2025-08-01 16:38:37.867914 - Paying Attention
+2025-08-01 16:38:37.907279 - Paying Attention
+2025-08-01 16:38:37.944033 - Paying Attention
+2025-08-01 16:38:37.983243 - Not Paying Attention
+2025-08-01 16:38:38.025145 - Paying Attention
+2025-08-01 16:38:38.061493 - Paying Attention
+2025-08-01 16:38:38.096935 - Paying Attention
+2025-08-01 16:38:38.133063 - Paying Attention
+2025-08-01 16:38:38.170204 - Paying Attention
+2025-08-01 16:38:38.198311 - Not Paying Attention
+2025-08-01 16:38:38.273299 - Not Paying Attention
+2025-08-01 16:38:38.322299 - Not Paying Attention
+2025-08-01 16:38:38.355886 - Not Paying Attention
+2025-08-01 16:38:38.399886 - Paying Attention
+2025-08-01 16:38:38.438525 - Paying Attention
+2025-08-01 16:38:38.476079 - Not Paying Attention
+2025-08-01 16:38:38.514079 - Not Paying Attention
+2025-08-01 16:38:38.551972 - Paying Attention
+2025-08-01 16:38:38.592335 - Not Paying Attention
+2025-08-01 16:38:38.672989 - Paying Attention
+2025-08-01 16:38:38.712702 - Paying Attention
+2025-08-01 16:38:38.750788 - Paying Attention
+2025-08-01 16:38:38.799881 - Paying Attention
+2025-08-01 16:38:38.839813 - Paying Attention
+2025-08-01 16:38:38.871474 - Not Paying Attention
+2025-08-01 16:38:38.908180 - Not Paying Attention
+2025-08-01 16:38:38.945297 - Not Paying Attention
+2025-08-01 16:38:38.985837 - Not Paying Attention
+2025-08-01 16:38:39.025951 - Not Paying Attention
+2025-08-01 16:38:39.063467 - Not Paying Attention
+2025-08-01 16:38:39.100203 - Not Paying Attention
+2025-08-01 16:38:39.131258 - Not Paying Attention
+2025-08-01 16:38:39.161361 - Not Paying Attention
+2025-08-01 16:38:39.199407 - Not Paying Attention
+2025-08-01 16:38:39.230633 - Not Paying Attention
+2025-08-01 16:38:39.260100 - Not Paying Attention
+2025-08-01 16:38:39.291474 - Not Paying Attention
+2025-08-01 16:38:39.324138 - Not Paying Attention
+2025-08-01 16:38:39.359947 - Not Paying Attention
+2025-08-01 16:38:39.390499 - Not Paying Attention
+2025-08-01 16:38:39.473263 - Not Paying Attention
+2025-08-01 16:38:39.521221 - Not Paying Attention
+2025-08-01 16:38:39.555808 - Not Paying Attention
+2025-08-01 16:38:39.592808 - Not Paying Attention
+2025-08-01 16:38:39.624808 - Not Paying Attention
+2025-08-01 16:38:39.653764 - Not Paying Attention
+2025-08-01 16:38:39.684764 - Not Paying Attention
+2025-08-01 16:38:39.717356 - Not Paying Attention
+2025-08-01 16:38:39.748955 - Not Paying Attention
+2025-08-01 16:38:39.782304 - Not Paying Attention
+2025-08-01 16:38:39.811672 - Not Paying Attention
+2025-08-01 16:38:39.840196 - Not Paying Attention
+2025-08-01 16:38:39.871514 - Not Paying Attention
+2025-08-01 16:38:39.900927 - Not Paying Attention
+2025-08-01 16:38:39.929733 - Not Paying Attention
+2025-08-01 16:38:39.996670 - Not Paying Attention
+2025-08-01 16:38:40.026901 - Not Paying Attention
+2025-08-01 16:38:40.071092 - Not Paying Attention
+2025-08-01 16:38:40.103136 - Not Paying Attention
+2025-08-01 16:38:40.132634 - Not Paying Attention
+2025-08-01 16:38:40.164521 - Not Paying Attention
+2025-08-01 16:38:40.196032 - Not Paying Attention
+2025-08-01 16:38:40.227036 - Not Paying Attention
+2025-08-01 16:38:40.256994 - Not Paying Attention
+2025-08-01 16:38:40.287367 - Not Paying Attention
+2025-08-01 16:38:40.319145 - Not Paying Attention
+2025-08-01 16:38:40.349047 - Not Paying Attention
+2025-08-01 16:38:40.391072 - Not Paying Attention
+2025-08-01 16:38:40.423681 - Not Paying Attention
+2025-08-01 16:38:40.451510 - Not Paying Attention
+2025-08-01 16:38:40.484061 - Not Paying Attention
+2025-08-01 16:38:40.516367 - Not Paying Attention
+2025-08-01 16:38:40.546294 - Not Paying Attention
+2025-08-01 16:38:40.583061 - Not Paying Attention
+2025-08-01 16:38:40.613214 - Not Paying Attention
+2025-08-01 16:38:40.643281 - Not Paying Attention
+2025-08-01 16:38:40.673218 - Not Paying Attention
+2025-08-01 16:38:40.707381 - Not Paying Attention
+2025-08-01 16:38:40.737049 - Not Paying Attention
+2025-08-01 16:38:40.796638 - Not Paying Attention
+2025-08-01 16:38:40.828499 - Not Paying Attention
+2025-08-01 16:38:40.861456 - Not Paying Attention
+2025-08-01 16:38:40.893690 - Not Paying Attention
+2025-08-01 16:38:40.924795 - Not Paying Attention
+2025-08-01 16:38:40.956250 - Not Paying Attention
+2025-08-01 16:38:40.987629 - Not Paying Attention
+2025-08-01 16:38:41.015929 - Not Paying Attention
+2025-08-01 16:38:41.047769 - Not Paying Attention
+2025-08-01 16:38:41.085901 - Not Paying Attention
+2025-08-01 16:38:41.122102 - Not Paying Attention
+2025-08-01 16:38:41.151929 - Not Paying Attention
+2025-08-01 16:38:41.187545 - Not Paying Attention
+2025-08-01 16:38:41.218003 - Not Paying Attention
+2025-08-01 16:38:41.253243 - Not Paying Attention
+2025-08-01 16:38:41.286697 - Not Paying Attention
+2025-08-01 16:38:41.316683 - Not Paying Attention
+2025-08-01 16:38:41.348058 - Not Paying Attention
+2025-08-01 16:38:41.389264 - Paying Attention
+2025-08-01 16:38:41.536114 - Paying Attention
+2025-08-01 16:38:41.569638 - Not Paying Attention
+2025-08-01 16:38:41.600069 - Not Paying Attention
+2025-08-01 16:38:41.634500 - Not Paying Attention
+2025-08-01 16:38:41.673317 - Paying Attention
+2025-08-01 16:38:41.713753 - Paying Attention
+2025-08-01 16:38:41.750549 - Paying Attention
+2025-08-01 16:38:41.786991 - Paying Attention
+2025-08-01 16:38:41.825794 - Not Paying Attention
+2025-08-01 16:38:41.863441 - Not Paying Attention
+2025-08-01 16:38:41.901492 - Not Paying Attention
+2025-08-01 16:38:41.936462 - Paying Attention
+2025-08-01 16:38:41.973967 - Paying Attention
+2025-08-01 16:38:42.002546 - Not Paying Attention
+2025-08-01 16:38:42.035577 - Not Paying Attention
+2025-08-01 16:38:42.066540 - Not Paying Attention
+2025-08-01 16:38:42.108541 - Not Paying Attention
+2025-08-01 16:38:42.142647 - Not Paying Attention
+2025-08-01 16:38:42.181404 - Not Paying Attention
+2025-08-01 16:38:42.217394 - Not Paying Attention
+2025-08-01 16:38:42.265411 - Not Paying Attention
+2025-08-01 16:38:42.295757 - Not Paying Attention
+2025-08-01 16:38:42.325519 - Not Paying Attention
+2025-08-01 16:38:42.402764 - Not Paying Attention
+2025-08-01 16:38:42.444121 - Not Paying Attention
+2025-08-01 16:38:42.481158 - Not Paying Attention
+2025-08-01 16:38:42.516772 - Not Paying Attention
+2025-08-01 16:38:42.555408 - Not Paying Attention
+2025-08-01 16:38:42.587215 - Not Paying Attention
+2025-08-01 16:38:42.661577 - Not Paying Attention
+2025-08-01 16:38:42.695161 - Not Paying Attention
+2025-08-01 16:38:42.725254 - Not Paying Attention
+2025-08-01 16:38:42.795410 - Not Paying Attention
+2025-08-01 16:38:42.826164 - Not Paying Attention
+2025-08-01 16:38:42.853668 - Not Paying Attention
+2025-08-01 16:38:42.883687 - Not Paying Attention
+2025-08-01 16:38:42.917615 - Not Paying Attention
+2025-08-01 16:38:42.950255 - Not Paying Attention
+2025-08-01 16:38:42.987023 - Not Paying Attention
+2025-08-01 16:38:43.018529 - Not Paying Attention
+2025-08-01 16:38:43.052345 - Not Paying Attention
+2025-08-01 16:38:43.082223 - Not Paying Attention
+2025-08-01 16:38:43.114466 - Not Paying Attention
+2025-08-01 16:38:43.148761 - Not Paying Attention
+2025-08-01 16:38:43.189850 - Not Paying Attention
+2025-08-01 16:38:43.222304 - Not Paying Attention
+2025-08-01 16:38:43.251338 - Not Paying Attention
+2025-08-01 16:38:43.282382 - Not Paying Attention
+2025-08-01 16:38:43.320290 - Not Paying Attention
+2025-08-01 16:38:43.350598 - Not Paying Attention
+2025-08-01 16:38:43.378737 - Not Paying Attention
+2025-08-01 16:38:43.407786 - Not Paying Attention
+2025-08-01 16:38:43.440382 - Not Paying Attention
+2025-08-01 16:38:43.469693 - Not Paying Attention
+2025-08-01 16:38:43.499522 - Not Paying Attention
+2025-08-01 16:38:43.530773 - Not Paying Attention
+2025-08-01 16:38:43.590455 - Not Paying Attention
+2025-08-01 16:38:43.622778 - Not Paying Attention
+2025-08-01 16:38:43.659278 - Not Paying Attention
+2025-08-01 16:38:43.691182 - Not Paying Attention
+2025-08-01 16:38:43.721116 - Not Paying Attention
+2025-08-01 16:38:43.751282 - Not Paying Attention
+2025-08-01 16:38:43.783559 - Not Paying Attention
+2025-08-01 16:38:43.815819 - Not Paying Attention
+2025-08-01 16:38:43.848961 - Not Paying Attention
+2025-08-01 16:38:43.878202 - Not Paying Attention
+2025-08-01 16:38:43.910483 - Not Paying Attention
+2025-08-01 16:38:43.940592 - Not Paying Attention
+2025-08-01 16:38:43.994515 - Not Paying Attention
+2025-08-01 16:38:44.030515 - Not Paying Attention
+2025-08-01 16:38:44.064102 - Not Paying Attention
+2025-08-01 16:38:44.101102 - Not Paying Attention
+2025-08-01 16:38:44.131739 - Not Paying Attention
+2025-08-01 16:38:44.164116 - Not Paying Attention
+2025-08-01 16:38:44.193823 - Not Paying Attention
+2025-08-01 16:38:44.226058 - Not Paying Attention
+2025-08-01 16:38:44.258391 - Not Paying Attention
+2025-08-01 16:38:44.288836 - Not Paying Attention
+2025-08-01 16:38:44.319149 - Not Paying Attention
+2025-08-01 16:38:44.358651 - Paying Attention
+2025-08-01 16:38:44.396281 - Not Paying Attention
+2025-08-01 16:38:44.427647 - Not Paying Attention
+2025-08-01 16:38:44.460133 - Not Paying Attention
+2025-08-01 16:38:44.492260 - Not Paying Attention
+2025-08-01 16:38:44.519650 - Not Paying Attention
+2025-08-01 16:38:44.549405 - Not Paying Attention
+2025-08-01 16:38:44.580289 - Not Paying Attention
+2025-08-01 16:38:44.611305 - Not Paying Attention
+2025-08-01 16:38:44.641457 - Not Paying Attention
+2025-08-01 16:38:44.673216 - Not Paying Attention
+2025-08-01 16:38:44.702577 - Not Paying Attention
+2025-08-01 16:38:44.739630 - Paying Attention
+2025-08-01 16:38:44.790302 - Not Paying Attention
+2025-08-01 16:38:44.820746 - Not Paying Attention
+2025-08-01 16:38:44.859805 - Not Paying Attention
+2025-08-01 16:38:44.888242 - Not Paying Attention
+2025-08-01 16:38:44.914975 - Not Paying Attention
+2025-08-01 16:38:44.946058 - Not Paying Attention
+2025-08-01 16:38:44.990294 - Paying Attention
+2025-08-01 16:38:45.026810 - Paying Attention
+2025-08-01 16:38:45.062762 - Paying Attention
+2025-08-01 16:38:45.092145 - Not Paying Attention
+2025-08-01 16:38:45.122549 - Not Paying Attention
+2025-08-01 16:38:45.151761 - Not Paying Attention
+2025-08-01 16:38:45.192712 - Not Paying Attention
+2025-08-01 16:38:45.224429 - Not Paying Attention
+2025-08-01 16:38:45.252765 - Not Paying Attention
+2025-08-01 16:38:45.280300 - Not Paying Attention
+2025-08-01 16:38:45.320330 - Not Paying Attention
+2025-08-01 16:38:45.352310 - Not Paying Attention
+2025-08-01 16:38:45.389875 - Not Paying Attention
+2025-08-01 16:38:45.426379 - Not Paying Attention
+2025-08-01 16:38:45.463651 - Not Paying Attention
+2025-08-01 16:38:45.511646 - Not Paying Attention
+2025-08-01 16:38:45.542026 - Not Paying Attention
+2025-08-01 16:38:45.571874 - Not Paying Attention
+2025-08-01 16:38:45.600897 - Not Paying Attention
+2025-08-01 16:38:45.631114 - Not Paying Attention
+2025-08-01 16:38:45.663309 - Not Paying Attention
+2025-08-01 16:38:45.694762 - Not Paying Attention
+2025-08-01 16:38:45.723555 - Not Paying Attention
+2025-08-01 16:38:45.754953 - Not Paying Attention
+2025-08-01 16:38:45.783437 - Not Paying Attention
+2025-08-01 16:38:45.813143 - Not Paying Attention
+2025-08-01 16:38:45.844247 - Not Paying Attention
+2025-08-01 16:38:45.873124 - Not Paying Attention
+2025-08-01 16:38:45.904290 - Not Paying Attention
+2025-08-01 16:38:45.942328 - Not Paying Attention
+2025-08-01 16:38:45.990539 - Not Paying Attention
+2025-08-01 16:38:46.021104 - Not Paying Attention
+2025-08-01 16:38:46.055639 - Not Paying Attention
+2025-08-01 16:38:46.087138 - Not Paying Attention
+2025-08-01 16:38:46.119595 - Not Paying Attention
+2025-08-01 16:38:46.150229 - Not Paying Attention
+2025-08-01 16:38:46.181291 - Not Paying Attention
+2025-08-01 16:38:46.212158 - Not Paying Attention
+2025-08-01 16:38:46.245343 - Not Paying Attention
+2025-08-01 16:38:46.275239 - Not Paying Attention
+2025-08-01 16:38:46.306325 - Not Paying Attention
+2025-08-01 16:38:46.335555 - Not Paying Attention
+2025-08-01 16:38:46.395840 - Not Paying Attention
+2025-08-01 16:38:46.433876 - Not Paying Attention
+2025-08-01 16:38:46.469063 - Not Paying Attention
+2025-08-01 16:38:46.506062 - Not Paying Attention
+2025-08-01 16:38:46.537062 - Not Paying Attention
+2025-08-01 16:38:46.568248 - Not Paying Attention
+2025-08-01 16:38:46.597629 - Not Paying Attention
+2025-08-01 16:38:46.627014 - Not Paying Attention
+2025-08-01 16:38:46.655287 - Not Paying Attention
+2025-08-01 16:38:46.687011 - Not Paying Attention
+2025-08-01 16:38:46.719663 - Not Paying Attention
+2025-08-01 16:38:46.749380 - Not Paying Attention
+2025-08-01 16:38:46.796102 - Not Paying Attention
+2025-08-01 16:38:46.826003 - Not Paying Attention
+2025-08-01 16:38:46.856146 - Not Paying Attention
+2025-08-01 16:38:46.885933 - Not Paying Attention
+2025-08-01 16:38:46.919565 - Not Paying Attention
+2025-08-01 16:38:46.947619 - Not Paying Attention
+2025-08-01 16:38:46.982190 - Not Paying Attention
+2025-08-01 16:38:47.012317 - Not Paying Attention
+2025-08-01 16:38:47.044317 - Not Paying Attention
+2025-08-01 16:38:47.073692 - Not Paying Attention
+2025-08-01 16:38:47.104745 - Not Paying Attention
+2025-08-01 16:38:47.134996 - Not Paying Attention
+2025-08-01 16:38:47.189950 - Not Paying Attention
+2025-08-01 16:38:47.218950 - Not Paying Attention
+2025-08-01 16:38:47.252093 - Not Paying Attention
+2025-08-01 16:38:47.283794 - Not Paying Attention
+2025-08-01 16:38:47.320099 - Not Paying Attention
+2025-08-01 16:38:47.351791 - Not Paying Attention
+2025-08-01 16:38:47.382854 - Not Paying Attention
+2025-08-01 16:38:47.411961 - Not Paying Attention
+2025-08-01 16:38:47.443549 - Not Paying Attention
+2025-08-01 16:38:47.473506 - Not Paying Attention
+2025-08-01 16:38:47.503735 - Not Paying Attention
+2025-08-01 16:38:47.533183 - Not Paying Attention
+2025-08-01 16:38:47.614524 - Not Paying Attention
+2025-08-01 16:38:47.659415 - Not Paying Attention
+2025-08-01 16:38:47.701456 - Not Paying Attention
+2025-08-01 16:38:47.737930 - Not Paying Attention
+2025-08-01 16:38:47.777175 - Paying Attention
+2025-08-01 16:38:47.809770 - Not Paying Attention
+2025-08-01 16:38:47.870704 - Paying Attention
+2025-08-01 16:38:47.908807 - Paying Attention
+2025-08-01 16:38:47.938815 - Not Paying Attention
+2025-08-01 16:38:47.992162 - Not Paying Attention
+2025-08-01 16:38:48.023707 - Not Paying Attention
+2025-08-01 16:38:48.058393 - Not Paying Attention
+2025-08-01 16:38:48.089206 - Not Paying Attention
+2025-08-01 16:38:48.120458 - Not Paying Attention
+2025-08-01 16:38:48.155346 - Not Paying Attention
+2025-08-01 16:38:48.187773 - Not Paying Attention
+2025-08-01 16:38:48.219725 - Not Paying Attention
+2025-08-01 16:38:48.252067 - Not Paying Attention
+2025-08-01 16:38:48.282934 - Not Paying Attention
+2025-08-01 16:38:48.316765 - Not Paying Attention
+2025-08-01 16:38:48.357016 - Paying Attention
+2025-08-01 16:38:48.401445 - Paying Attention
+2025-08-01 16:38:48.441966 - Paying Attention
+2025-08-01 16:38:48.480886 - Paying Attention
+2025-08-01 16:38:48.520768 - Paying Attention
+2025-08-01 16:38:48.561143 - Not Paying Attention
+2025-08-01 16:38:48.593224 - Not Paying Attention
+2025-08-01 16:38:48.702290 - Not Paying Attention
+2025-08-01 16:38:48.743265 - Not Paying Attention
+2025-08-01 16:38:48.785157 - Not Paying Attention
+2025-08-01 16:38:48.828943 - Not Paying Attention
+2025-08-01 16:38:48.868980 - Not Paying Attention
+2025-08-01 16:38:48.916992 - Not Paying Attention
+2025-08-01 16:38:48.956514 - Not Paying Attention
+2025-08-01 16:38:48.997109 - Paying Attention
+2025-08-01 16:38:49.039736 - Paying Attention
+2025-08-01 16:38:49.079565 - Paying Attention
+2025-08-01 16:38:49.122593 - Paying Attention
+2025-08-01 16:38:49.163141 - Paying Attention
+2025-08-01 16:38:49.202334 - Paying Attention
+2025-08-01 16:38:49.240576 - Paying Attention
+2025-08-01 16:38:49.279884 - Paying Attention
+2025-08-01 16:38:49.319177 - Paying Attention
+2025-08-01 16:38:49.358825 - Paying Attention
+2025-08-01 16:38:49.397077 - Paying Attention
+2025-08-01 16:38:49.496783 - Paying Attention
+2025-08-01 16:38:49.551309 - Paying Attention
+2025-08-01 16:38:49.611612 - Paying Attention
+2025-08-01 16:38:49.661711 - Paying Attention
+2025-08-01 16:38:49.706200 - Paying Attention
+2025-08-01 16:38:49.750224 - Paying Attention
+2025-08-01 16:38:49.793776 - Paying Attention
+2025-08-01 16:38:49.833359 - Paying Attention
+2025-08-01 16:38:49.874697 - Paying Attention
+2025-08-01 16:38:49.915018 - Paying Attention
+2025-08-01 16:38:49.956450 - Paying Attention
+2025-08-01 16:38:49.996537 - Paying Attention
+2025-08-01 16:38:50.039876 - Not Paying Attention
+2025-08-01 16:38:50.079357 - Not Paying Attention
+2025-08-01 16:38:50.126615 - Paying Attention
+2025-08-01 16:38:50.166525 - Paying Attention
+2025-08-01 16:38:50.211584 - Paying Attention
+2025-08-01 16:38:50.255737 - Paying Attention
+2025-08-01 16:38:50.302497 - Paying Attention
+2025-08-01 16:38:50.343495 - Paying Attention
+2025-08-01 16:38:50.384094 - Paying Attention
+2025-08-01 16:38:50.431222 - Paying Attention
+2025-08-01 16:38:50.473899 - Paying Attention
+2025-08-01 16:38:50.515975 - Paying Attention
+2025-08-01 16:38:50.560576 - Paying Attention
+2025-08-01 16:38:50.600665 - Paying Attention
+2025-08-01 16:38:50.642928 - Paying Attention
+2025-08-01 16:38:50.682988 - Paying Attention
+2025-08-01 16:38:50.725184 - Paying Attention
+2025-08-01 16:38:50.765640 - Paying Attention
+2025-08-01 16:38:50.919361 - Paying Attention
+2025-08-01 16:38:50.962553 - Paying Attention
+2025-08-01 16:38:51.008642 - Paying Attention
+2025-08-01 16:38:51.079255 - Paying Attention
+2025-08-01 16:38:51.126631 - Paying Attention
+2025-08-01 16:38:51.171518 - Paying Attention
+2025-08-01 16:38:51.216583 - Paying Attention
+2025-08-01 16:38:51.263053 - Paying Attention
+2025-08-01 16:38:51.307611 - Paying Attention
+2025-08-01 16:38:51.350135 - Paying Attention
+2025-08-01 16:38:51.395173 - Paying Attention
+2025-08-01 16:38:51.440980 - Paying Attention
+2025-08-01 16:38:51.479713 - Paying Attention
+2025-08-01 16:38:51.521560 - Paying Attention
+2025-08-01 16:38:51.564860 - Paying Attention
+2025-08-01 16:38:51.607919 - Paying Attention
+2025-08-01 16:38:51.650279 - Paying Attention
+2025-08-01 16:38:51.692488 - Paying Attention
+2025-08-01 16:38:51.732289 - Paying Attention
+2025-08-01 16:38:51.773180 - Not Paying Attention
+2025-08-01 16:38:51.818290 - Paying Attention
+2025-08-01 16:38:51.882472 - Paying Attention
+2025-08-01 16:38:51.927647 - Paying Attention
+2025-08-01 16:38:51.971446 - Paying Attention
+2025-08-01 16:38:52.012494 - Not Paying Attention
+2025-08-01 16:38:52.054661 - Not Paying Attention
+2025-08-01 16:38:52.098097 - Paying Attention
+2025-08-01 16:38:52.137426 - Paying Attention
+2025-08-01 16:38:52.181661 - Paying Attention
+2025-08-01 16:38:52.223498 - Not Paying Attention
+2025-08-01 16:38:52.274244 - Not Paying Attention
+2025-08-01 16:38:52.329408 - Not Paying Attention
+2025-08-01 16:38:52.377117 - Paying Attention
+2025-08-01 16:38:52.420614 - Not Paying Attention
+2025-08-01 16:38:52.462884 - Not Paying Attention
+2025-08-01 16:38:52.509512 - Paying Attention
+2025-08-01 16:38:52.555910 - Paying Attention
+2025-08-01 16:38:52.594080 - Not Paying Attention
+2025-08-01 16:38:52.633322 - Not Paying Attention
+2025-08-01 16:38:52.672679 - Paying Attention
+2025-08-01 16:38:52.717324 - Paying Attention
+2025-08-01 16:38:52.759431 - Paying Attention
+2025-08-01 16:38:52.807240 - Paying Attention
+2025-08-01 16:38:52.851442 - Paying Attention
+2025-08-01 16:38:52.892026 - Paying Attention
+2025-08-01 16:38:52.933474 - Paying Attention
+2025-08-01 16:38:52.979580 - Paying Attention
+2025-08-01 16:38:53.023127 - Not Paying Attention
+2025-08-01 16:38:53.080084 - Paying Attention
+2025-08-01 16:38:53.126393 - Paying Attention
+2025-08-01 16:38:53.172415 - Paying Attention
+2025-08-01 16:38:53.216674 - Not Paying Attention
+2025-08-01 16:38:53.262853 - Not Paying Attention
+2025-08-01 16:38:53.304549 - Paying Attention
+2025-08-01 16:38:53.348799 - Paying Attention
+2025-08-01 16:38:53.388670 - Paying Attention
+2025-08-01 16:38:53.429667 - Paying Attention
+2025-08-01 16:38:53.477981 - Paying Attention
+2025-08-01 16:38:53.520625 - Paying Attention
+2025-08-01 16:38:53.563569 - Paying Attention
+2025-08-01 16:38:53.603033 - Paying Attention
+2025-08-01 16:38:53.642029 - Paying Attention
+2025-08-01 16:38:53.696500 - Not Paying Attention
+2025-08-01 16:38:53.735524 - Not Paying Attention
+2025-08-01 16:38:53.776382 - Paying Attention
+2025-08-01 16:38:53.815555 - Paying Attention
+2025-08-01 16:38:53.875029 - Paying Attention
+2025-08-01 16:38:53.924503 - Paying Attention
+2025-08-01 16:38:53.967810 - Not Paying Attention
+2025-08-01 16:38:54.012062 - Not Paying Attention
+2025-08-01 16:38:54.053976 - Not Paying Attention
+2025-08-01 16:38:54.092504 - Not Paying Attention
+2025-08-01 16:38:54.133500 - Not Paying Attention
+2025-08-01 16:38:54.178318 - Not Paying Attention
+2025-08-01 16:38:54.220433 - Not Paying Attention
+2025-08-01 16:38:54.277532 - Paying Attention
+2025-08-01 16:38:54.318907 - Paying Attention
+2025-08-01 16:38:54.361656 - Paying Attention
+2025-08-01 16:38:54.401634 - Not Paying Attention
+2025-08-01 16:38:54.442537 - Not Paying Attention
+2025-08-01 16:38:54.486770 - Not Paying Attention
+2025-08-01 16:38:54.530272 - Not Paying Attention
+2025-08-01 16:38:54.575514 - Paying Attention
+2025-08-01 16:38:54.620543 - Not Paying Attention
+2025-08-01 16:38:54.675788 - Not Paying Attention
+2025-08-01 16:38:54.716054 - Not Paying Attention
+2025-08-01 16:38:54.756807 - Paying Attention
+2025-08-01 16:38:54.799242 - Not Paying Attention
+2025-08-01 16:38:54.842243 - Not Paying Attention
+2025-08-01 16:38:54.881263 - Not Paying Attention
+2025-08-01 16:38:54.923746 - Not Paying Attention
+2025-08-01 16:38:54.966092 - Not Paying Attention
+2025-08-01 16:38:55.005136 - Paying Attention
+2025-08-01 16:38:55.079014 - Paying Attention
+2025-08-01 16:38:55.129496 - Paying Attention
+2025-08-01 16:38:55.173329 - Paying Attention
+2025-08-01 16:38:55.217564 - Paying Attention
+2025-08-01 16:38:55.258597 - Paying Attention
+2025-08-01 16:38:55.299007 - Paying Attention
+2025-08-01 16:38:55.337511 - Paying Attention
+2025-08-01 16:38:55.380055 - Not Paying Attention
+2025-08-01 16:38:55.419011 - Paying Attention
+2025-08-01 16:38:55.477497 - Paying Attention
+2025-08-01 16:38:55.516714 - Paying Attention
+2025-08-01 16:38:55.559407 - Paying Attention
+2025-08-01 16:38:55.602683 - Paying Attention
+2025-08-01 16:38:55.642957 - Paying Attention
+2025-08-01 16:38:55.686635 - Paying Attention
+2025-08-01 16:38:55.732778 - Paying Attention
+2025-08-01 16:38:55.785941 - Not Paying Attention
+2025-08-01 16:38:55.826955 - Paying Attention
+2025-08-01 16:38:55.873481 - Paying Attention
+2025-08-01 16:38:55.916926 - Paying Attention
+2025-08-01 16:38:55.956342 - Paying Attention
+2025-08-01 16:38:56.004623 - Paying Attention
+2025-08-01 16:38:56.045321 - Paying Attention
+2025-08-01 16:38:56.093604 - Paying Attention
+2025-08-01 16:38:56.133626 - Paying Attention
+2025-08-01 16:38:56.176870 - Paying Attention
+2025-08-01 16:38:56.217437 - Paying Attention
+2025-08-01 16:38:56.285934 - Paying Attention
+2025-08-01 16:38:56.337933 - Paying Attention
+2025-08-01 16:38:56.380454 - Paying Attention
+2025-08-01 16:38:56.425899 - Paying Attention
+2025-08-01 16:38:56.481296 - Paying Attention
+2025-08-01 16:38:56.521784 - Paying Attention
+2025-08-01 16:38:56.561097 - Paying Attention
+2025-08-01 16:38:56.603205 - Paying Attention
+2025-08-01 16:38:56.645898 - Paying Attention
+2025-08-01 16:38:56.683714 - Paying Attention
+2025-08-01 16:38:56.724014 - Paying Attention
+2025-08-01 16:38:56.767198 - Paying Attention
+2025-08-01 16:38:56.806102 - Paying Attention
+2025-08-01 16:38:56.845694 - Paying Attention
+2025-08-01 16:38:56.888613 - Paying Attention
+2025-08-01 16:38:56.934065 - Paying Attention
+2025-08-01 16:38:56.975694 - Not Paying Attention
+2025-08-01 16:38:57.015223 - Not Paying Attention
+2025-08-01 16:38:57.069295 - Not Paying Attention
+2025-08-01 16:38:57.108695 - Not Paying Attention
+2025-08-01 16:38:57.152157 - Paying Attention
+2025-08-01 16:38:57.197847 - Not Paying Attention
+2025-08-01 16:38:57.239823 - Not Paying Attention
+2025-08-01 16:38:57.281093 - Paying Attention
+2025-08-01 16:38:57.321874 - Paying Attention
+2025-08-01 16:38:57.363637 - Paying Attention
+2025-08-01 16:38:57.403250 - Paying Attention
+2025-08-01 16:38:57.471148 - Not Paying Attention
+2025-08-01 16:38:57.525264 - Not Paying Attention
+2025-08-01 16:38:57.561734 - Paying Attention
+2025-08-01 16:38:57.603033 - Paying Attention
+2025-08-01 16:38:57.645542 - Paying Attention
+2025-08-01 16:38:57.685717 - Paying Attention
+2025-08-01 16:38:57.725690 - Paying Attention
+2025-08-01 16:38:57.765497 - Paying Attention
+2025-08-01 16:38:57.914543 - Paying Attention
+2025-08-01 16:38:57.961565 - Paying Attention
+2025-08-01 16:38:58.004860 - Paying Attention
+2025-08-01 16:38:58.067187 - Paying Attention
+2025-08-01 16:38:58.107648 - Paying Attention
+2025-08-01 16:38:58.149139 - Paying Attention
+2025-08-01 16:38:58.190016 - Paying Attention
+2025-08-01 16:38:58.236679 - Paying Attention
+2025-08-01 16:38:58.278084 - Paying Attention
+2025-08-01 16:38:58.338502 - Paying Attention
+2025-08-01 16:38:58.407532 - Paying Attention
+2025-08-01 16:38:58.453768 - Paying Attention
+2025-08-01 16:38:58.495751 - Not Paying Attention
+2025-08-01 16:38:58.538291 - Not Paying Attention
+2025-08-01 16:38:58.580199 - Paying Attention
+2025-08-01 16:38:58.620317 - Paying Attention
+2025-08-01 16:38:58.673764 - Paying Attention
+2025-08-01 16:38:58.716742 - Paying Attention
+2025-08-01 16:38:58.758718 - Paying Attention
+2025-08-01 16:38:58.802857 - Paying Attention
+2025-08-01 16:38:58.845125 - Paying Attention
+2025-08-01 16:38:58.887141 - Paying Attention
+2025-08-01 16:38:58.928148 - Paying Attention
+2025-08-01 16:38:58.972344 - Paying Attention
+2025-08-01 16:38:59.011858 - Paying Attention
+2025-08-01 16:38:59.082638 - Paying Attention
+2025-08-01 16:38:59.132630 - Paying Attention
+2025-08-01 16:38:59.183850 - Paying Attention
+2025-08-01 16:38:59.228403 - Paying Attention
+2025-08-01 16:38:59.269004 - Paying Attention
+2025-08-01 16:38:59.314125 - Paying Attention
+2025-08-01 16:38:59.356572 - Paying Attention
+2025-08-01 16:38:59.400380 - Paying Attention
+2025-08-01 16:38:59.443666 - Paying Attention
+2025-08-01 16:38:59.485756 - Paying Attention
+2025-08-01 16:38:59.528763 - Paying Attention
+2025-08-01 16:38:59.570253 - Paying Attention
+2025-08-01 16:38:59.612984 - Paying Attention
+2025-08-01 16:38:59.663231 - Paying Attention
+2025-08-01 16:38:59.716982 - Paying Attention
+2025-08-01 16:38:59.760315 - Paying Attention
+2025-08-01 16:38:59.804440 - Paying Attention
+2025-08-01 16:38:59.847562 - Paying Attention
+2025-08-01 16:38:59.891596 - Paying Attention
+2025-08-01 16:38:59.936659 - Paying Attention
+2025-08-01 16:38:59.977267 - Paying Attention
+2025-08-01 16:39:00.018416 - Paying Attention
+2025-08-01 16:39:00.060702 - Paying Attention
+2025-08-01 16:39:00.099787 - Paying Attention
+2025-08-01 16:39:00.142898 - Paying Attention
+2025-08-01 16:39:00.186051 - Paying Attention
+2025-08-01 16:39:00.227016 - Paying Attention
+2025-08-01 16:39:00.277117 - Paying Attention
+2025-08-01 16:39:00.320690 - Paying Attention
+2025-08-01 16:39:00.366361 - Paying Attention
+2025-08-01 16:39:00.409427 - Paying Attention
+2025-08-01 16:39:00.451738 - Paying Attention
+2025-08-01 16:39:00.492142 - Paying Attention
+2025-08-01 16:39:00.536362 - Paying Attention
+2025-08-01 16:39:00.579654 - Paying Attention
+2025-08-01 16:39:00.619552 - Paying Attention
+2025-08-01 16:39:00.676069 - Paying Attention
+2025-08-01 16:39:00.720019 - Paying Attention
+2025-08-01 16:39:00.759729 - Paying Attention
+2025-08-01 16:39:00.802651 - Paying Attention
+2025-08-01 16:39:00.843401 - Paying Attention
+2025-08-01 16:39:00.882386 - Paying Attention
+2025-08-01 16:39:00.923182 - Paying Attention
+2025-08-01 16:39:00.966043 - Paying Attention
+2025-08-01 16:39:01.010093 - Paying Attention
+2025-08-01 16:39:01.054282 - Paying Attention
+2025-08-01 16:39:01.100316 - Paying Attention
+2025-08-01 16:39:01.145456 - Paying Attention
+2025-08-01 16:39:01.201714 - Paying Attention
+2025-08-01 16:39:01.245649 - Paying Attention
+2025-08-01 16:39:01.287254 - Paying Attention
+2025-08-01 16:39:01.327445 - Paying Attention
+2025-08-01 16:39:01.368638 - Paying Attention
+2025-08-01 16:39:01.413311 - Paying Attention
+2025-08-01 16:39:01.453751 - Paying Attention
+2025-08-01 16:39:01.494837 - Paying Attention
+2025-08-01 16:39:01.539964 - Paying Attention
+2025-08-01 16:39:01.602030 - Paying Attention
+2025-08-01 16:39:01.642787 - Paying Attention
+2025-08-01 16:39:01.681910 - Paying Attention
+2025-08-01 16:39:01.724766 - Paying Attention
+2025-08-01 16:39:01.764511 - Paying Attention
+2025-08-01 16:39:01.806149 - Paying Attention
+2025-08-01 16:39:01.852703 - Paying Attention
+2025-08-01 16:39:01.909475 - Paying Attention
+2025-08-01 16:39:01.953038 - Paying Attention
+2025-08-01 16:39:02.003073 - Paying Attention
+2025-08-01 16:39:02.044856 - Paying Attention
+2025-08-01 16:39:02.084379 - Paying Attention
+2025-08-01 16:39:02.126524 - Paying Attention
+2025-08-01 16:39:02.170078 - Paying Attention
+2025-08-01 16:39:02.212924 - Paying Attention
+2025-08-01 16:39:02.289979 - Paying Attention
+2025-08-01 16:39:02.343979 - Paying Attention
+2025-08-01 16:39:02.397589 - Paying Attention
+2025-08-01 16:39:02.443626 - Paying Attention
+2025-08-01 16:39:02.488807 - Paying Attention
+2025-08-01 16:39:02.533373 - Paying Attention
+2025-08-01 16:39:02.580006 - Paying Attention
+2025-08-01 16:39:02.624922 - Paying Attention
+2025-08-01 16:39:02.672721 - Paying Attention
+2025-08-01 16:39:02.718433 - Paying Attention
+2025-08-01 16:39:02.763144 - Paying Attention
+2025-08-01 16:39:02.809749 - Paying Attention
+2025-08-01 16:39:02.856931 - Paying Attention
+2025-08-01 16:39:02.903588 - Paying Attention
+2025-08-01 16:39:02.950199 - Paying Attention
+2025-08-01 16:39:02.995787 - Paying Attention
+2025-08-01 16:39:03.043766 - Paying Attention
+2025-08-01 16:39:03.088022 - Paying Attention
+2025-08-01 16:39:03.130460 - Paying Attention
+2025-08-01 16:39:03.173893 - Paying Attention
+2025-08-01 16:39:03.217946 - Paying Attention
+2025-08-01 16:39:03.262796 - Paying Attention
+2025-08-01 16:39:03.304397 - Paying Attention
+2025-08-01 16:39:03.342928 - Paying Attention
+2025-08-01 16:39:03.387009 - Paying Attention
+2025-08-01 16:39:03.429508 - Paying Attention
+2025-08-01 16:39:03.476209 - Paying Attention
+2025-08-01 16:39:03.520168 - Paying Attention
+2025-08-01 16:39:03.563975 - Paying Attention
+2025-08-01 16:39:03.605970 - Paying Attention
+2025-08-01 16:39:03.650781 - Paying Attention
+2025-08-01 16:39:03.691376 - Paying Attention
+2025-08-01 16:39:03.729731 - Paying Attention
+2025-08-01 16:39:03.774014 - Paying Attention
+2025-08-01 16:39:03.813750 - Paying Attention
+2025-08-01 16:39:03.854102 - Paying Attention
+2025-08-01 16:39:03.897840 - Paying Attention
+2025-08-01 16:39:03.938600 - Paying Attention
+2025-08-01 16:39:03.984624 - Paying Attention
+2025-08-01 16:39:04.028588 - Paying Attention
+2025-08-01 16:39:04.067580 - Paying Attention
+2025-08-01 16:39:04.108314 - Paying Attention
+2025-08-01 16:39:04.153655 - Paying Attention
+2025-08-01 16:39:04.212786 - Paying Attention
+2025-08-01 16:39:04.258292 - Paying Attention
+2025-08-01 16:39:04.306220 - Paying Attention
+2025-08-01 16:39:04.346263 - Paying Attention
+2025-08-01 16:39:04.391765 - Paying Attention
+2025-08-01 16:39:04.433823 - Paying Attention
+2025-08-01 16:39:04.474374 - Paying Attention
+2025-08-01 16:39:04.517801 - Paying Attention
+2025-08-01 16:39:04.557243 - Paying Attention
+2025-08-01 16:39:04.632212 - Paying Attention
+2025-08-01 16:39:04.682383 - Paying Attention
+2025-08-01 16:39:04.726455 - Paying Attention
+2025-08-01 16:39:04.771114 - Paying Attention
+2025-08-01 16:39:04.816395 - Paying Attention
+2025-08-01 16:39:04.863948 - Paying Attention
+2025-08-01 16:39:04.905024 - Paying Attention
+2025-08-01 16:39:04.948294 - Paying Attention
+2025-08-01 16:39:04.998260 - Paying Attention
+2025-08-01 16:39:05.044742 - Paying Attention
+2025-08-01 16:39:05.086948 - Paying Attention
+2025-08-01 16:39:05.128951 - Paying Attention
+2025-08-01 16:39:05.173007 - Paying Attention
+2025-08-01 16:39:05.215897 - Paying Attention
+2025-08-01 16:39:05.262127 - Paying Attention
+2025-08-01 16:39:05.306960 - Paying Attention
+2025-08-01 16:39:05.350554 - Paying Attention
+2025-08-01 16:39:05.391713 - Paying Attention
+2025-08-01 16:39:05.433428 - Paying Attention
+2025-08-01 16:39:05.474732 - Paying Attention
+2025-08-01 16:39:05.516120 - Paying Attention
+2025-08-01 16:39:05.557103 - Paying Attention
+2025-08-01 16:39:05.597678 - Paying Attention
+2025-08-01 16:39:05.639364 - Paying Attention
+2025-08-01 16:39:05.678319 - Paying Attention
+2025-08-01 16:39:05.722021 - Paying Attention
+2025-08-01 16:39:05.763612 - Paying Attention
+2025-08-01 16:39:05.811156 - Paying Attention
+2025-08-01 16:39:05.853164 - Paying Attention
+2025-08-01 16:39:05.896921 - Paying Attention
+2025-08-01 16:39:05.936821 - Paying Attention
+2025-08-01 16:39:05.991439 - Paying Attention
+2025-08-01 16:39:06.033585 - Paying Attention
+2025-08-01 16:39:06.074671 - Paying Attention
+2025-08-01 16:39:06.114227 - Paying Attention
+2025-08-01 16:39:06.159795 - Paying Attention
+2025-08-01 16:39:06.213838 - Paying Attention
+2025-08-01 16:39:06.253645 - Paying Attention
+2025-08-01 16:39:06.294934 - Paying Attention
+2025-08-01 16:39:06.336929 - Paying Attention
+2025-08-01 16:39:06.381079 - Paying Attention
+2025-08-01 16:39:06.422852 - Paying Attention
+2025-08-01 16:39:06.464053 - Paying Attention
+2025-08-01 16:39:06.508303 - Paying Attention
+2025-08-01 16:39:06.551466 - Paying Attention
+2025-08-01 16:39:06.614485 - Paying Attention
+2025-08-01 16:39:06.655416 - Paying Attention
+2025-08-01 16:39:06.702146 - Paying Attention
+2025-08-01 16:39:06.742612 - Paying Attention
+2025-08-01 16:39:06.785543 - Paying Attention
+2025-08-01 16:39:06.831867 - Paying Attention
+2025-08-01 16:39:06.876498 - Paying Attention
+2025-08-01 16:39:06.919520 - Paying Attention
+2025-08-01 16:39:06.965126 - Paying Attention
+2025-08-01 16:39:07.011188 - Paying Attention
+2025-08-01 16:39:07.052605 - Paying Attention
+2025-08-01 16:39:07.094826 - Paying Attention
+2025-08-01 16:39:07.137544 - Paying Attention
+2025-08-01 16:39:07.178664 - Paying Attention
+2025-08-01 16:39:07.221048 - Paying Attention
+2025-08-01 16:39:07.264458 - Paying Attention
+2025-08-01 16:39:07.303428 - Paying Attention
+2025-08-01 16:39:07.352815 - Paying Attention
+2025-08-01 16:39:07.412678 - Paying Attention
+2025-08-01 16:39:07.458266 - Paying Attention
+2025-08-01 16:39:07.500823 - Paying Attention
+2025-08-01 16:39:07.547823 - Paying Attention
+2025-08-01 16:39:07.588108 - Paying Attention
+2025-08-01 16:39:07.629439 - Paying Attention
+2025-08-01 16:39:07.778887 - Paying Attention
+2025-08-01 16:39:07.822026 - Paying Attention
+2025-08-01 16:39:07.874207 - Paying Attention
+2025-08-01 16:39:07.914722 - Paying Attention
+2025-08-01 16:39:07.957964 - Paying Attention
+2025-08-01 16:39:08.005277 - Paying Attention
+2025-08-01 16:39:08.047486 - Paying Attention
+2025-08-01 16:39:08.089029 - Paying Attention
+2025-08-01 16:39:08.132128 - Paying Attention
+2025-08-01 16:39:08.171321 - Paying Attention
+2025-08-01 16:39:08.211153 - Paying Attention
+2025-08-01 16:39:08.274580 - Paying Attention
+2025-08-01 16:39:08.314074 - Paying Attention
+2025-08-01 16:39:08.355185 - Paying Attention
+2025-08-01 16:39:08.398302 - Paying Attention
+2025-08-01 16:39:08.436424 - Paying Attention
+2025-08-01 16:39:08.475289 - Paying Attention
+2025-08-01 16:39:08.514483 - Paying Attention
+2025-08-01 16:39:08.554951 - Paying Attention
+2025-08-01 16:39:08.594114 - Paying Attention
+2025-08-01 16:39:08.633378 - Paying Attention
+2025-08-01 16:39:08.672436 - Paying Attention
+2025-08-01 16:39:08.755818 - Paying Attention
+2025-08-01 16:39:08.805140 - Paying Attention
+2025-08-01 16:39:08.853635 - Paying Attention
+2025-08-01 16:39:08.896406 - Paying Attention
+2025-08-01 16:39:08.938482 - Paying Attention
+2025-08-01 16:39:09.009949 - Paying Attention
+2025-08-01 16:39:09.051649 - Paying Attention
+2025-08-01 16:39:09.091628 - Not Paying Attention
+2025-08-01 16:39:09.136235 - Not Paying Attention
+2025-08-01 16:39:09.178543 - Paying Attention
+2025-08-01 16:39:09.218300 - Paying Attention
+2025-08-01 16:39:09.256509 - Paying Attention
+2025-08-01 16:39:09.297179 - Paying Attention
+2025-08-01 16:39:09.337793 - Paying Attention
+2025-08-01 16:39:09.409824 - Paying Attention
+2025-08-01 16:39:09.450729 - Paying Attention
+2025-08-01 16:39:09.489712 - Paying Attention
+2025-08-01 16:39:09.529644 - Paying Attention
+2025-08-01 16:39:09.569717 - Paying Attention
+2025-08-01 16:39:09.617079 - Paying Attention
+2025-08-01 16:39:09.658511 - Paying Attention
+2025-08-01 16:39:09.704565 - Paying Attention
+2025-08-01 16:39:09.744676 - Paying Attention
+2025-08-01 16:39:09.813328 - Not Paying Attention
+2025-08-01 16:39:09.859365 - Not Paying Attention
+2025-08-01 16:39:09.901451 - Paying Attention
+2025-08-01 16:39:09.943465 - Paying Attention
+2025-08-01 16:39:09.983063 - Paying Attention
+2025-08-01 16:39:10.030576 - Paying Attention
+2025-08-01 16:39:10.081976 - Paying Attention
+2025-08-01 16:39:10.126180 - Paying Attention
+2025-08-01 16:39:10.165396 - Paying Attention
+2025-08-01 16:39:10.213549 - Paying Attention
+2025-08-01 16:39:10.259215 - Paying Attention
+2025-08-01 16:39:10.299048 - Paying Attention
+2025-08-01 16:39:10.340342 - Paying Attention
+2025-08-01 16:39:10.381832 - Paying Attention
+2025-08-01 16:39:10.419673 - Paying Attention
+2025-08-01 16:39:10.458998 - Paying Attention
+2025-08-01 16:39:10.500122 - Paying Attention
+2025-08-01 16:39:10.539308 - Paying Attention
+2025-08-01 16:39:10.615145 - Paying Attention
+2025-08-01 16:39:10.662025 - Paying Attention
+2025-08-01 16:39:10.704836 - Not Paying Attention
+2025-08-01 16:39:10.745405 - Not Paying Attention
+2025-08-01 16:39:10.787207 - Paying Attention
+2025-08-01 16:39:10.826361 - Paying Attention
+2025-08-01 16:39:10.863325 - Paying Attention
+2025-08-01 16:39:10.905501 - Paying Attention
+2025-08-01 16:39:10.943764 - Not Paying Attention
+2025-08-01 16:39:11.007000 - Paying Attention
+2025-08-01 16:39:11.047106 - Paying Attention
+2025-08-01 16:39:11.086338 - Paying Attention
+2025-08-01 16:39:11.126494 - Paying Attention
+2025-08-01 16:39:11.167079 - Paying Attention
+2025-08-01 16:39:11.204094 - Paying Attention
+2025-08-01 16:39:11.251387 - Paying Attention
+2025-08-01 16:39:11.293659 - Paying Attention
+2025-08-01 16:39:11.336118 - Paying Attention
+2025-08-01 16:39:11.414227 - Not Paying Attention
+2025-08-01 16:39:11.461760 - Not Paying Attention
+2025-08-01 16:39:11.508372 - Paying Attention
+2025-08-01 16:39:11.550364 - Paying Attention
+2025-08-01 16:39:11.593945 - Paying Attention
+2025-08-01 16:39:11.632779 - Paying Attention
+2025-08-01 16:39:11.673958 - Paying Attention
+2025-08-01 16:39:11.715836 - Not Paying Attention
+2025-08-01 16:39:11.756151 - Paying Attention
+2025-08-01 16:39:11.808394 - Paying Attention
+2025-08-01 16:39:11.845491 - Paying Attention
+2025-08-01 16:39:11.889655 - Paying Attention
+2025-08-01 16:39:11.926748 - Paying Attention
+2025-08-01 16:39:11.967116 - Paying Attention
+2025-08-01 16:39:12.003012 - Not Paying Attention
+2025-08-01 16:39:12.041180 - Not Paying Attention
+2025-08-01 16:39:12.078672 - Paying Attention
+2025-08-01 16:39:12.121152 - Paying Attention
+2025-08-01 16:39:12.160388 - Paying Attention
+2025-08-01 16:39:12.202058 - Paying Attention
+2025-08-01 16:39:12.242916 - Paying Attention
+2025-08-01 16:39:12.281892 - Paying Attention
+2025-08-01 16:39:12.336436 - Paying Attention
+2025-08-01 16:39:12.404839 - Paying Attention
+2025-08-01 16:39:12.445211 - Paying Attention
+2025-08-01 16:39:12.485765 - Paying Attention
+2025-08-01 16:39:12.524592 - Paying Attention
+2025-08-01 16:39:12.562623 - Paying Attention
+2025-08-01 16:39:12.608504 - Paying Attention
+2025-08-01 16:39:12.646890 - Paying Attention
+2025-08-01 16:39:12.687163 - Paying Attention
+2025-08-01 16:39:12.740058 - Paying Attention
+2025-08-01 16:39:12.810535 - Paying Attention
+2025-08-01 16:39:12.849257 - Paying Attention
+2025-08-01 16:39:12.890649 - Paying Attention
+2025-08-01 16:39:12.928993 - Paying Attention
+2025-08-01 16:39:13.017176 - Paying Attention
+2025-08-01 16:39:13.065025 - Paying Attention
+2025-08-01 16:39:13.109130 - Paying Attention
+2025-08-01 16:39:13.148679 - Paying Attention
+2025-08-01 16:39:13.197897 - Paying Attention
+2025-08-01 16:39:13.237787 - Paying Attention
+2025-08-01 16:39:13.286129 - Paying Attention
+2025-08-01 16:39:13.323037 - Paying Attention
+2025-08-01 16:39:13.363992 - Paying Attention
+2025-08-01 16:39:13.409757 - Paying Attention
+2025-08-01 16:39:13.449371 - Paying Attention
+2025-08-01 16:39:13.485010 - Paying Attention
+2025-08-01 16:39:13.527290 - Paying Attention
+2025-08-01 16:39:13.567777 - Paying Attention
+2025-08-01 16:39:13.611382 - Paying Attention
+2025-08-01 16:39:13.653382 - Paying Attention
+2025-08-01 16:39:13.694418 - Paying Attention
+2025-08-01 16:39:13.736121 - Paying Attention
+2025-08-01 16:39:13.812139 - Paying Attention
+2025-08-01 16:39:13.854834 - Paying Attention
+2025-08-01 16:39:13.898953 - Paying Attention
+2025-08-01 16:39:13.939498 - Paying Attention
+2025-08-01 16:39:13.978326 - Not Paying Attention
+2025-08-01 16:39:14.021151 - Paying Attention
+2025-08-01 16:39:14.062738 - Paying Attention
+2025-08-01 16:39:14.105079 - Paying Attention
+2025-08-01 16:39:14.145211 - Paying Attention
+2025-08-01 16:39:14.273787 - Paying Attention
+2025-08-01 16:39:14.323374 - Paying Attention
+2025-08-01 16:39:14.368374 - Paying Attention
+2025-08-01 16:39:14.405790 - Paying Attention
+2025-08-01 16:39:14.469343 - Paying Attention
+2025-08-01 16:39:14.511556 - Paying Attention
+2025-08-01 16:39:14.557678 - Paying Attention
+2025-08-01 16:39:14.601759 - Paying Attention
+2025-08-01 16:39:14.645876 - Paying Attention
+2025-08-01 16:39:14.685522 - Paying Attention
+2025-08-01 16:39:14.738717 - Paying Attention
+2025-08-01 16:39:14.807896 - Paying Attention
+2025-08-01 16:39:14.856248 - Paying Attention
+2025-08-01 16:39:14.899181 - Paying Attention
+2025-08-01 16:39:14.940815 - Paying Attention
+2025-08-01 16:39:15.011363 - Paying Attention
+2025-08-01 16:39:15.052506 - Paying Attention
+2025-08-01 16:39:15.091542 - Paying Attention
+2025-08-01 16:39:15.132374 - Paying Attention
+2025-08-01 16:39:15.172434 - Paying Attention
+2025-08-01 16:39:15.214005 - Paying Attention
+2025-08-01 16:39:15.255698 - Paying Attention
+2025-08-01 16:39:15.295128 - Paying Attention
+2025-08-01 16:39:15.334508 - Paying Attention
+2025-08-01 16:39:15.411361 - Paying Attention
+2025-08-01 16:39:15.452865 - Paying Attention
+2025-08-01 16:39:15.497084 - Paying Attention
+2025-08-01 16:39:15.538424 - Paying Attention
+2025-08-01 16:39:15.585152 - Paying Attention
+2025-08-01 16:39:15.626882 - Paying Attention
+2025-08-01 16:39:15.668511 - Paying Attention
+2025-08-01 16:39:15.713612 - Paying Attention
+2025-08-01 16:39:15.755978 - Paying Attention
+2025-08-01 16:39:15.816404 - Paying Attention
+2025-08-01 16:39:15.862006 - Paying Attention
+2025-08-01 16:39:15.905379 - Paying Attention
+2025-08-01 16:39:15.951463 - Paying Attention
+2025-08-01 16:39:15.994496 - Paying Attention
+2025-08-01 16:39:16.037525 - Paying Attention
+2025-08-01 16:39:16.078533 - Paying Attention
+2025-08-01 16:39:16.119583 - Paying Attention
+2025-08-01 16:39:16.162957 - Paying Attention
+2025-08-01 16:39:16.209622 - Paying Attention
+2025-08-01 16:39:16.254224 - Paying Attention
+2025-08-01 16:39:16.294305 - Paying Attention
+2025-08-01 16:39:16.332804 - Paying Attention
+2025-08-01 16:39:16.374043 - Paying Attention
+2025-08-01 16:39:16.418076 - Paying Attention
+2025-08-01 16:39:16.462527 - Paying Attention
+2025-08-01 16:39:16.504999 - Paying Attention
+2025-08-01 16:39:16.546036 - Paying Attention
+2025-08-01 16:39:16.607945 - Paying Attention
+2025-08-01 16:39:16.648171 - Paying Attention
+2025-08-01 16:39:16.688177 - Paying Attention
+2025-08-01 16:39:16.728726 - Paying Attention
+2025-08-01 16:39:16.774729 - Paying Attention
+2025-08-01 16:39:16.814822 - Paying Attention
+2025-08-01 16:39:16.853158 - Paying Attention
+2025-08-01 16:39:16.896523 - Paying Attention
+2025-08-01 16:39:16.940376 - Paying Attention
+2025-08-01 16:39:17.010717 - Paying Attention
+2025-08-01 16:39:17.049110 - Paying Attention
+2025-08-01 16:39:17.090166 - Paying Attention
+2025-08-01 16:39:17.132667 - Paying Attention
+2025-08-01 16:39:17.172190 - Paying Attention
+2025-08-01 16:39:17.217678 - Paying Attention
+2025-08-01 16:39:17.261342 - Paying Attention
+2025-08-01 16:39:17.300197 - Paying Attention
+2025-08-01 16:39:17.342526 - Paying Attention
+2025-08-01 16:39:17.415107 - Paying Attention
+2025-08-01 16:39:17.462472 - Paying Attention
+2025-08-01 16:39:17.500746 - Paying Attention
+2025-08-01 16:39:17.541542 - Paying Attention
+2025-08-01 16:39:17.579333 - Paying Attention
+2025-08-01 16:39:17.619591 - Paying Attention
+2025-08-01 16:39:17.658507 - Paying Attention
+2025-08-01 16:39:17.696520 - Paying Attention
+2025-08-01 16:39:17.733870 - Paying Attention
+2025-08-01 16:39:17.810467 - Paying Attention
+2025-08-01 16:39:17.850976 - Paying Attention
+2025-08-01 16:39:17.889285 - Paying Attention
+2025-08-01 16:39:17.929788 - Paying Attention
+2025-08-01 16:39:17.970238 - Paying Attention
+2025-08-01 16:39:18.008779 - Paying Attention
+2025-08-01 16:39:18.051787 - Paying Attention
+2025-08-01 16:39:18.091532 - Paying Attention
+2025-08-01 16:39:18.127616 - Not Paying Attention
+2025-08-01 16:39:18.216281 - Not Paying Attention
+2025-08-01 16:39:18.265760 - Not Paying Attention
+2025-08-01 16:39:18.309269 - Paying Attention
+2025-08-01 16:39:18.347332 - Paying Attention
+2025-08-01 16:39:18.386185 - Paying Attention
+2025-08-01 16:39:18.428930 - Paying Attention
+2025-08-01 16:39:18.467868 - Paying Attention
+2025-08-01 16:39:18.509084 - Paying Attention
+2025-08-01 16:39:18.549292 - Paying Attention
+2025-08-01 16:39:18.617486 - Paying Attention
+2025-08-01 16:39:18.663759 - Paying Attention
+2025-08-01 16:39:18.707089 - Paying Attention
+2025-08-01 16:39:18.747063 - Paying Attention
+2025-08-01 16:39:18.790977 - Paying Attention
+2025-08-01 16:39:18.832450 - Paying Attention
+2025-08-01 16:39:18.874952 - Paying Attention
+2025-08-01 16:39:18.918157 - Paying Attention
+2025-08-01 16:39:18.957162 - Paying Attention
+2025-08-01 16:39:19.005142 - Not Paying Attention
+2025-08-01 16:39:19.043827 - Not Paying Attention
+2025-08-01 16:39:19.081381 - Not Paying Attention
+2025-08-01 16:39:19.118733 - Not Paying Attention
+2025-08-01 16:39:19.153307 - Not Paying Attention
+2025-08-01 16:39:19.191358 - Not Paying Attention
+2025-08-01 16:39:19.226399 - Paying Attention
+2025-08-01 16:39:19.267394 - Paying Attention
+2025-08-01 16:39:19.309367 - Paying Attention
+2025-08-01 16:39:19.352377 - Paying Attention
+2025-08-01 16:39:19.397399 - Paying Attention
+2025-08-01 16:39:19.438503 - Paying Attention
+2025-08-01 16:39:19.478526 - Paying Attention
+2025-08-01 16:39:19.540261 - Paying Attention
+2025-08-01 16:39:19.583944 - Paying Attention
+2025-08-01 16:39:19.626507 - Paying Attention
+2025-08-01 16:39:19.665128 - Paying Attention
+2025-08-01 16:39:19.708123 - Paying Attention
+2025-08-01 16:39:19.741578 - Paying Attention
+2025-08-01 16:39:19.775731 - Paying Attention
+2025-08-01 16:39:19.810324 - Paying Attention
+2025-08-01 16:39:19.848100 - Paying Attention
+2025-08-01 16:39:19.884847 - Paying Attention
+2025-08-01 16:39:19.920864 - Not Paying Attention
+2025-08-01 16:39:19.954438 - Not Paying Attention
+2025-08-01 16:39:19.998627 - Paying Attention
+2025-08-01 16:39:20.039718 - Paying Attention
+2025-08-01 16:39:20.081723 - Paying Attention
+2025-08-01 16:39:20.124004 - Paying Attention
+2025-08-01 16:39:20.164755 - Paying Attention
+2025-08-01 16:39:20.211272 - Paying Attention
+2025-08-01 16:39:20.254306 - Paying Attention
+2025-08-01 16:39:20.295811 - Paying Attention
+2025-08-01 16:39:20.337643 - Paying Attention
+2025-08-01 16:39:20.384612 - Paying Attention
+2025-08-01 16:39:20.425296 - Paying Attention
+2025-08-01 16:39:20.469857 - Paying Attention
+2025-08-01 16:39:20.514288 - Paying Attention
+2025-08-01 16:39:20.557288 - Paying Attention
+2025-08-01 16:39:20.608294 - Not Paying Attention
+2025-08-01 16:39:20.648706 - Not Paying Attention
+2025-08-01 16:39:20.688246 - Paying Attention
+2025-08-01 16:39:20.733459 - Paying Attention
+2025-08-01 16:39:20.776268 - Paying Attention
+2025-08-01 16:39:20.818187 - Paying Attention
+2025-08-01 16:39:20.861294 - Paying Attention
+2025-08-01 16:39:20.902717 - Paying Attention
+2025-08-01 16:39:20.946866 - Paying Attention
+2025-08-01 16:39:21.015699 - Paying Attention
+2025-08-01 16:39:21.064674 - Paying Attention
+2025-08-01 16:39:21.107955 - Paying Attention
+2025-08-01 16:39:21.150699 - Paying Attention
+2025-08-01 16:39:21.192674 - Paying Attention
+2025-08-01 16:39:21.231760 - Paying Attention
+2025-08-01 16:39:21.275937 - Paying Attention
+2025-08-01 16:39:21.317999 - Paying Attention
+2025-08-01 16:39:21.361908 - Paying Attention
+2025-08-01 16:39:21.426112 - Paying Attention
+2025-08-01 16:39:21.477721 - Paying Attention
+2025-08-01 16:39:21.527671 - Paying Attention
+2025-08-01 16:39:21.576671 - Paying Attention
+2025-08-01 16:39:21.618258 - Paying Attention
+2025-08-01 16:39:21.659304 - Paying Attention
+2025-08-01 16:39:21.700561 - Not Paying Attention
+2025-08-01 16:39:21.739701 - Paying Attention
+2025-08-01 16:39:21.781401 - Paying Attention
+2025-08-01 16:39:21.823068 - Paying Attention
+2025-08-01 16:39:21.860579 - Paying Attention
+2025-08-01 16:39:21.902862 - Paying Attention
+2025-08-01 16:39:21.943269 - Paying Attention
+2025-08-01 16:39:21.983517 - Paying Attention
+2025-08-01 16:39:22.024056 - Paying Attention
+2025-08-01 16:39:22.069360 - Paying Attention
+2025-08-01 16:39:22.113964 - Paying Attention
+2025-08-01 16:39:22.157288 - Paying Attention
+2025-08-01 16:39:22.212893 - Paying Attention
+2025-08-01 16:39:22.255961 - Paying Attention
+2025-08-01 16:39:22.295995 - Paying Attention
+2025-08-01 16:39:22.346616 - Paying Attention
+2025-08-01 16:39:22.385788 - Paying Attention
+2025-08-01 16:39:22.425714 - Paying Attention
+2025-08-01 16:39:22.463512 - Paying Attention
+2025-08-01 16:39:22.509563 - Paying Attention
+2025-08-01 16:39:22.550905 - Paying Attention
+2025-08-01 16:39:22.623915 - Paying Attention
+2025-08-01 16:39:22.672916 - Paying Attention
+2025-08-01 16:39:22.722440 - Paying Attention
+2025-08-01 16:39:22.767689 - Paying Attention
+2025-08-01 16:39:22.810191 - Paying Attention
+2025-08-01 16:39:22.855314 - Paying Attention
+2025-08-01 16:39:22.896950 - Paying Attention
+2025-08-01 16:39:22.938832 - Paying Attention
+2025-08-01 16:39:22.984736 - Paying Attention
+2025-08-01 16:39:23.026710 - Paying Attention
+2025-08-01 16:39:23.067119 - Paying Attention
+2025-08-01 16:39:23.109980 - Paying Attention
+2025-08-01 16:39:23.153776 - Paying Attention
+2025-08-01 16:39:23.204826 - Paying Attention
+2025-08-01 16:39:23.254826 - Paying Attention
+2025-08-01 16:39:23.302760 - Paying Attention
+2025-08-01 16:39:23.353395 - Paying Attention
+2025-08-01 16:39:23.399464 - Paying Attention
+2025-08-01 16:39:23.444183 - Paying Attention
+2025-08-01 16:39:23.487716 - Paying Attention
+2025-08-01 16:39:23.534502 - Paying Attention
+2025-08-01 16:39:23.577398 - Paying Attention
+2025-08-01 16:39:23.619260 - Paying Attention
+2025-08-01 16:39:23.665385 - Paying Attention
+2025-08-01 16:39:23.711200 - Paying Attention
+2025-08-01 16:39:23.755311 - Paying Attention
+2025-08-01 16:39:23.802827 - Paying Attention
+2025-08-01 16:39:23.846101 - Paying Attention
+2025-08-01 16:39:23.889670 - Paying Attention
+2025-08-01 16:39:23.942794 - Paying Attention
+2025-08-01 16:39:23.986951 - Paying Attention
+2025-08-01 16:39:24.032329 - Paying Attention
+2025-08-01 16:39:24.080033 - Paying Attention
+2025-08-01 16:39:24.149357 - Paying Attention
+2025-08-01 16:39:24.199547 - Paying Attention
+2025-08-01 16:39:24.240953 - Paying Attention
+2025-08-01 16:39:24.281224 - Paying Attention
+2025-08-01 16:39:24.341604 - Paying Attention
+2025-08-01 16:39:24.384459 - Paying Attention
+2025-08-01 16:39:24.424304 - Paying Attention
+2025-08-01 16:39:24.469956 - Paying Attention
+2025-08-01 16:39:24.514565 - Paying Attention
+2025-08-01 16:39:24.766924 - Paying Attention
+2025-08-01 16:39:24.820513 - Paying Attention
+2025-08-01 16:39:24.867808 - Paying Attention
+2025-08-01 16:39:24.915852 - Paying Attention
+2025-08-01 16:39:24.959285 - Paying Attention
+2025-08-01 16:39:25.001649 - Paying Attention
+2025-08-01 16:39:25.046101 - Paying Attention
+2025-08-01 16:39:25.086583 - Paying Attention
+2025-08-01 16:39:25.130022 - Paying Attention
+2025-08-01 16:39:25.172756 - Paying Attention
+2025-08-01 16:39:25.210729 - Paying Attention

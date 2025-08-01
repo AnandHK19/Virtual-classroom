@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+.video-container {
+    margin-top: 20px;
+}
+
+img {
+    width: 70%;
+    border: 5px solid #333;
+    border-radius: 10px;
+}
